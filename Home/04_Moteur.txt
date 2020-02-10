@@ -1,0 +1,83 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-06T20:11:24+01:00
+
+====== 04 Moteur ======
+Created Thursday 06 February 2020
+
+RNLI, KNRM, SNSM, ... → secours (benevoles)
+
+changer l'huile / filtre tous les ans
+
+===== Type de propulsion =====
+1. Ligne d'arbre (plus courant)
+	a. ligne d'arbre alignée: mateur, inverseur, ligne d'arbre, helice
+	b. ligne d'arbre en V: moteur retourné à l'arriere du bateau.
+**Presse étoupe**: evite que l'eau rentre (cordage serre et rend le bidule etanche)
+
+2. Sail Drive
+	systeme de propulsion trouvé dans les voiliers. trou dans la coque, moteur dedans. joint à changer
+3. Z Drive
+	enbase sort du tableau arriere. dirige aussi le bateau (remplace le gouvernail)
+		anodes: se font manger avant (degats électricité)
+		facile à debloquer
+		cons: fragile
+
+4. Moteur hors bord
+	placé sur une chaise
+	can be removed completly
+	souvent 2-strokes
+	+ fragile
+	parfois reservoir d'essence integré
+5. aqua jet
+	aspire l'eau a l'avant et la pousse a l'arriere avec helice et jet
+	
+
+===== Types de moteur =====
+
+==== Moteurs thermiques ====
+a. moteurs à essence 2 temps
+compression, explosion, release
+b. moteurs à essence 4 temps
+admission (air essence), fermeture, etincelle, explosion, piston descend (et remonte), ouverture et echappement
+c. moteurs diesel à 4 temps
+pareil mais pas d'etincelle; compression
+
+Inverseur: inverse l'helice
+	changer l'huile tous les ans dans le bidule qui coute cher. pas de mayonaise. tous les ans?
+
+hélice:
+	calculé par rapport au bateau (moteur, poids, longueur, inverseur, ...)
+	diametre, pas: avancée en un tour (measuré en inches)
+	
+	élice d'étrave: pousse le bateau à droite/gauche. rentre dans la coque
+	
+
+===== Circuit d'alimentation =====
+réservoir à carburant. (pompes rares en Belgique)
+remplissage
+mise à l'air: doit etre propre sinon le diesel ira partout au remplissage
+arrivee
+retour (moteur consomme pas tout ce que la pompe envoi)
+
+Filtre à carburant: à changer tous les ans
+
+c. echangeur de chaleur: tubes à eau propre/interne entourée d'eau externe
+
+d. keel cooling: eau sort par un tube qui touche l'eau exterieure. pas d'eau exterieure aspiree
+
+e. la sortie d'echappement: eau aspiree sort par la. pression builds up
+durée de vie d'une batterie = 5 ans.
+batterie de demarage separée avec clé pour pas decharger a l'arret.
+batteries should have the same emperage
+device can be used to charge the starter battery first
+
+
+Karine Danice
+
+expert: in Breda: +31 639506536 Johan Weijermans
+boot check
+
+
+
+

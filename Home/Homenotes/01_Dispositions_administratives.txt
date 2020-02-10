@@ -1,0 +1,62 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-04T21:50:52+01:00
+
+====== 01 Dispositions administratives ======
+Created Tuesday 04 February 2020
+
+===== Enregistrement: =====
+Lettre d’enregistrement : https://mobilit.belgium.be/fr/navigation/navigation_de_plaisance_0/navire/lettre_denregistrement
+
+===== Permits: =====
+General
+VHF: https://www.ibpt.be/fr/consommateurs/radio/maritime/certificats-examens
+
+===== Livre ou journal de bord =====
+dates et heures de départ ed d'arrivée, route du navire (position, cap compas, variation, ...), météo, marées, sonde, relevements effectués, controles moteur, eventuellement observations astronomiques, navires rencontrés, incidents
+
+===== Matériel minimum obligatoire à bord =====
+(eaux maritimes)
+* Engins de sauvetage:
+	* 1 gilet de sauvetage par personne (brassiere)
+	* 1 bouée de sauvetage lumineuse si le bateau navigue de nuit
+	* signeaux de detresse (incl. fusees)
+* Instruments nautiques
+	* compas magnetique
+	* feux de navigation
+	* corne de brume (horn) 	
+	* sonde à main
+* Matériel d'armement
+	* ancre
+	* marteau
+	* gaffe (stick with a hook. push / pull)
+	* pompe ou ecope (rm water)
+	* avirons / rames (per boat)
+	* 20 metres de filin
+	* lampe electrique pour signaux lumineux
+	* extincteur (bateau à moteur)
+	* jeu de voile complet (voilier)
+* Materier sanitaire
+	* boite pharmaceutique etanche
+* Documents
+	* lettre de pavillon
+	* police d'assurance
+	* reglements de navigation
+	* annuaire des marees
+	* carte marines mises a jour
+(en eaux interieures)
+* Engins de sauvetage
+	* ceinture de sauvetage
+	* 1 gilet / coussin de sauvetage par personne
+* Instruments nautiques
+	* Mariphone (7+ m)
+* Materiel d'armement
+	* 1 ancre ou grapin
+	* 1 pompe ou ecope
+	* moyen de propulsion de reserve
+	* 2 cordages; chacun au moins la longueur du bateau
+
+Assistance (**sauvetage**) obligatoire et gratuite entre yachtman. Private companies charge lots (contract made in advance).
+
+ports requirent **assurance** responsabilité civile et frais de retirement
+	* 1 extincteur à poudre (moteur)

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-09T13:34:42+01:00
+
+====== vocab ======
+Created Sunday 09 February 2020
+
+vague d'étrave: vague generee a l'avant avec bad aerodynamics et/ou trop de vitesse
+
+enfourcher: 2 ancres avec angle devant
+embosser: 2 ancres devant/derriere	
+Empenneler: ancre legere puis frapper la chaine avec 2eme ancre. ideal par mauvais temps

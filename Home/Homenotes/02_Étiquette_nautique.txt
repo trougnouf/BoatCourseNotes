@@ -1,0 +1,71 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-09T13:30:07+01:00
+
+====== 02 Étiquette nautique ======
+Created Sunday 09 February 2020
+
+===== 1. Respect des reglements =====
+RIPAM (Reglement International pour Prevenir les Abordages en Mer)
+* absence totale de la notion de bateau prioritaire
+* interdiction absolue de l'abordage
+(Faute est presque toujours partagee)
+
+===== 2. Modération =====
+* vitesse adaptée
+* pas de vague d'étrave
+* manoeuvre silencieuse (eg: pas de cris)
+* modération vocale (similar as above)
+* bienséance
+
+===== 3. Mouillage =====
+* choix du mouillage: assez loin des autres. si l'ancre n'attache pas essayer ailleurs
+* cercle d'evitage: à verifier (surtout si l'autre bateau est enfourché, embossé, ou amarré à terre)
+* Signalisation obligatoire (boule de mouillage de jour, feu de mouillage visible 360° la nuit)
+
+===== 4. Accostage =====
+...?
+
+===== 5. Les communications radio =====
+VHF est un accessoire de securité. respect du silence radio et du secret des conversations. eviter d'intervenir dans d'autres convos. éviter les conversations pas necessaires.
+
+===== 6. Propreté =====
+* propreté du bateau (particulierement la ligne de flotaison et les trainees noires à sortie du pot d'echappement)
+* eviter de secher par les filieres
+
+===== 7. Déchets =====
+Convention MARPOL
+	pas de dechets plastiques
+* Poubelles
+	* provided by marinas
+* Eaux noires
+	* ok à mer, pas dans les ports et mouillages
+* Eaux grises
+	* éviter les detergents aggressifs & such
+	* parfois dans un résérvoir
+
+===== 8. Pavillons =====
+battant d'au moins 90cm. membre d'une association de yachting agrée: couronne royale jaune dans le coin haut noir
+ou?
+	en route: corne de pavillon
+	sinon: à la poupe
+pavillon national obligatoire: quand le proprietaire est à bord, à l'entree et sortie des ports, dimanches et jours feries, when requisitioned (representant qualifie de l'autorite marine, consulaire, bateau de l'etat)
+	de 8h à 20h (25 mars au 20 septembre), de 9h a 20h (21 septembre au 24 mars)
+* Pavillon de beaupré: carré, couleur nationale pour navire de guerre, port d'attache pour navires marchands
+	* quand l'ancre touche le fond
+	* w/ pavillon national
+* Pavillons particuliers, guidons de clubs
+	* opt. eviter de confondre avec signaux du code international
+	* has to be approved par l'administration de la marine
+	* guidon de club: usually en tete de mat le plus haut. owner doesn't need to be there
+	* pavillon proprietaire: when owner is present
+* pavillons à honorer et de courtoisie: à mettre sur le grand mat
+
+* salut:
+	* salue du pavillon national: amene le a mi drisse pendant quelques instants (marine/militaire/etrangers{
+	* autre signal: 3 longs coups de sirene (sauf batiment royal / de l'etat / de la marine)
+
+===== Grand pavois =====
+fete nationale, presence du roi/reinel..., fete locale
+composition: grand pavois en tete, ainsi que 40 pavillons du code international des signaux
+

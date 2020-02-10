@@ -1,0 +1,61 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-09T15:04:21+01:00
+
+====== R 1.1 Réglement international pour prévenir les abordages en mer ======
+Created Sunday 09 February 2020
+
+Champ d'application: tous les navires en haute mer (et eaux accessibles aux navires de mer) (sauf si les autorité locales different; eg mers territoriales et eaux interieures)
+
+Common sense prevails over these rules to prevent accidents
+
+defs:
+* **navire qui n'est pas maitre de sa manoeuvre**: navire qui exceptionellement ne peut pas suivre ces regles et s'ecarter de la route d'un autre navire
+* **navire à capacité de manoeuvre restrainte**: navire dont la capacité à manoeuvrer conformement aux regles est limitée (donc ne peut pas s'ecarter de la route d'un autre navire)
+	* = navires effectuant des travaux
+	* incl:
+		* navire en train de poser, relever, ou entretenir une bouée, cable, pipe-line, ...
+		* operations de draguage, hydrographie, oceanographie, travaux sous-marins
+		* ravitaillement, transbordage de personnes, cargaison, provisions
+		* portes-avions en operations de decollage / recuperation
+		* deminage
+		* remorquage qui permet difficilement de modifier la route
+* **navire handicapé par son tirant d'eau**: navire à propulsion mecanique qui en fonction de son tirant d'eau, et la profondeur et largeur des voix disponibles peut difficilement changer sa route
+
+===== Regles de barre et de route =====
+
+==== Section 1: conduite des navires dans toutes les conditions de visibilité ====
+**Veille**: toujours (audiovisuel). technologie n'est pas un remplacement / excuse.
+
+**Vitesse de securité**: depends des circonstances:
+	* visibilité
+	* densité du traffic
+	* capacité de manoeuvre du navire
+	* nuit: présence d'un arriere plan lumineux ou une diffusion de la propre lumiere des feux
+	* état du vent, de la mer, des courants
+	* tirant d'eau
+	* radar (si présent): characteristiques, limites (eg: meteo, petits objets, glace), nombres d'objets detectes et leur position et mouvement
+**Risque d'abordage**: mettre tout en oeuvre pour evaluer les situations de risques d'abordage.
+	particulierement: le radar, les relevements au compas, les relevements au bossoir ou gisements, les relevements d'avant-plan, les relevements d'arriere-plan
+	eviter de tirer des conclusions de renseignements insuffisants (esp radar)
+	evaluation du risque: relevement au compas d'un navire qui s'approche ne change pas assez
+**Manoeuvre pour éviter les abordages**
+executer manoeuvre à temps, si possible conformément
+changements assez importants pour etre remarqués plutot que succession de petits mouvements
+changement de cap d'un navire = best, si assez de place et temps
+reduire la vitesse si necessaire (plus de temps pour agir)
+un navire est tenu de ne pas gener le passage d'un autre
+...
+...(f2,f3)
+**Chenaux étroits**
+navires naviguent aussi pres possible de la limite exterieure droite
+-20m ou pecheur: pas gener le passage qui necessite le chenal etroit / voie d'acces
+traverser que lorsque la voie est libre
+signaux sonores:
+	- - . .	→ veut depasser à babord
+	- - .		→ veut depasser a tribord
+	- . - . 	→ ok (pour babord?, moving self out of the way?)
+	. . . . . (...)	→ nope or wat
+	. . . 		→ slowing self down
+pas de depassement - ecrasement. signaux sonores ne sont pas une excuse
+eviter de mouiller dans un chenal etroit

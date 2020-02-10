@@ -1,0 +1,134 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-01-23T20:05:30+01:00
+
+====== 03 Technologie ======
+Created Thursday 23 January 2020
+
+= vocabulary; useful for safety!
+
+**Coque**: charpente; structure
+**Tribord**: droite, **bâbord**: gauche
+**Proue**: avant, **poupe**: **arrière**
+**Œuvre vives**: parties dans l'eau
+**Œuvre** **mortes**: parties hors de l'eau
+**Bordé**: ensemble du revêtement constitué de virules; coté du bateau
+**Quille**: "colonne **vertébrale** de la coque"
+**Lest**: poids rajouté à la structure pour assurer la stabilité
+**Étrave**: avant du bateau
+
+**Couple**: "cotes de la cage thoracique"
+**Maître-Couple**: couple le plus long du bateau (largeur)
+
+**Barrot**: partie superieure qui soutient le pont
+**Vaigrage**: revetement visible dans le bateau (usually plastique, bois, ...)
+**Plat-Bord**: part-choc lateral du bateau
+**Liston**: **protège** la coque contre un quai
+**Cloison**: sépare des zones dans une coque
+**Coqueron** (arriere / avant): usually inaccessible / crash box
+
+**Passavant**: side couloir
+**Balcon**: self-explanatory
+**Pavois**: bordure qui dépasse le pont
+Cockpit: 
+**Aileron**: stabilité (underwater blade)
+
+**Écoutille**: capot
+**Chandelier**; side cord (**filière**) holder (fragile / se plie)
+**Dorade**: allow airflow inside without flooding boat
+
+**Tirant d'eau**: hauteur dans l'eau
+**Tirant d'air**: hauteur dans l'air
+
+**Gouvernail**: direction
+	**aiguillot** (attached to boat) + **femelot** (attached to gouvernail): systeme d'accroche
+	**Safran**: partie immergée
+	Crapaudine: tient la safran (from below)
+
+**Barres**:
+	franche: direct
+	maitre maneton: top/center of roue
+	Secteur: adapte barre à la roue
+	drosse: cable qui actionne le secteur
+	Bielette: no cable, more precise
+	
+**Voile**:
+	Bome: barre qui assomme (empannage = assomment)
+	Mat: big stick
+	Barre de fleche: widen voile
+	
+	Espars: mats:
+		etambrai: goes through pont
+		Tabernacle: folding
+		
+		Beaupré ou Bout-dehors: allows front voile
+		Queue de malet: rear voile holder
+		Cartahut: laundry holder
+		Gréement Dormant: cables that hold voile
+		**Hauban**: cables lateraux
+		Cadene: systeme qui tient les haubans/cables à la coque
+		**Gréement Courant**: cordage lié au voile
+			**drisse**: sert à monter (hisser) les voiles
+				drisse à foc: front drisse
+			**hisser**: monter, **affaler**: baisser (voiles)
+			écoute: borde (tirer) ou choque (pousser)
+				permet de regler l'angle de la voile
+			albas: regle hauteur de la voile
+			
+			coulisseaux: grande voile to rail connecteur
+			endraillot: foc voile to corde connecteur
+			
+noeud marin: std noodle that can be done/undone in whatever condition
+**ancre** / **mouillage**:
+	**organeau**: ring attachment
+	types:
+		**ancre à jas**: iconic type of ancre; not widely used for pleasance boat
+		**danforth**: (good for sand, not so much for gravel)
+		**marrel**: (heavy)
+		**chatte**: (useless but good for trees)
+		**CQR **/ **Soc de Charrue**: (widely used, polyvalente: cailloux et sable) 
+	chaine is usually more useful than ancre. end is a cord so that it can be cut off (safety)
+	davier: chaine goes through before leaving the boat
+	guindeau: la ou s'attache la corde au bateau?
+	barbotin: la ou passe la chaine
+	mousqueton à emerillon: mousqueton avec bout qui tourne infiniment
+	gueuse: poids pres de l'ancre qui permet de tendre la chaine (plus stable)
+	ancre flottante: ralentis en cas extreme
+	
+Coques / Ouevres vives / Carenes:
+	types:
+		en forme: arrondis
+		à clins: each lateral piece on top over that below
+		à bouchains vifs: angle à hauteur des bouchains
+	plan anti-derive:
+		full-keel: all over the bottom
+		bulb-keel: long then bulb on the bottom
+		fin-keel: fin in the middle
+		biquille: 2
+		triquille: 3
+Voiliers:
+	Goelette: mat arriere est plus haut
+	Ketch: mat avant est plus haut
+	Cotre: un mat
+	Cat-Boat: mat tout devant
+	Yawl: like Ketch mais Tapecul (mat arriere) est tout derriere
+		aussi utilisé sur les bateaux à moteur
+		++stabilité
+pompe à main: enleve l'eau du fond
+
+Amarrages:
+	avant et arriere
+	 add a diagonal (arriere du bateau vers le quai, le long du bateau) pour plus de stabilite
+	garde montante: du bateau vers le quai
+	garde descandante:
+
+Dimensions:
+	longueur hors tout: sans le gouvernail
+	encombrement: longueur totale
+	flotaison: underwater
+	elangement: tout sauf mats
+	
+	jauge: volume
+	deplacement: tonnes
+	
+	
