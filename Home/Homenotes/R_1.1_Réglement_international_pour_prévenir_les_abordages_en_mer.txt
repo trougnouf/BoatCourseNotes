@@ -94,4 +94,55 @@ maintenir cap et vitesse
 	sauf si l'autre bateau ne reagit clairement pas, alors effectuer seul la manoeuvre necessaire pour eviter l'abordage
 		mais eviter d'aller à babord si l'autre bateau est à babord (navires mechaniques)
 **Responsabilités réciproques des navires**
+* navire à propulsion méchanique s'ecarte de la route de
+	* navire pas maitre de sa manoeuvre,
+	* navire a capacite de manoeuvre restrainte
+	* navire en train de pecher
+	* navire à voile
+* navire a voile s'ecarte de la route de
+	* navire qui n'est pas maitre de sa manoeuvre
+	* navire a capacite de manoeuvre restrainte
+	* navire en train de pecher
+* navire en train de pecher doit s'ecarter de la route de
+	* navire qui n'est pas maitre de sa manoeuvre
+	* navire a capacite de manoeuvre restrainte
+* tous navires autre que navire pas maitre de sa manoeuvre et navire a capacite de manoeuvre restrainte doit eviter de gener le libre passage du navire handicapé par son tirant d'eau
+* navire handicapé par son tirant d'eau doit naviguer avec prudence particuliere
+* hydravion/navion doit rester largement a l'ecart des autres navires et eviter de gener leur navigation
+**Conduire des navires par visibilité réduite**
+definition: visibilité < 2-3 miles
+vitesse adaptée aux circonstances, machines pretes à manoeuvrer
+19d = ???
 
+===== Feux et marques =====
+
+==== Champ d'application ====
+feux sont montrés pendant la nuit et visibilité réduite
+marques montrées pendant le jour
+
+==== Définitions ====
+**feu de tête de mat**:
+	feu blanc placé au dessus de l'axe langitudinal du navire avec un arc de 225 degrs (projette jusqu'a 22.5° sur l'arriere du travers de chaque bord)
+	aussi "**feu de hune**"
+**feu de côté**: feu vert à tribord, rouge à babord. arc d'horizon de 112.5° (avant jusqu'a 22.5° sur l'arriere du travers de chaque coté)
+	>20m: peuvent etre combinés en un seul "flanal" placé dans l'axe longitudinal du navire
+**feu de poupe**: feu blanc placé aussi pres que possible de la poupe (135° ; 67.5° de chaque bord de l'arriere)
+**feu de remorquage**: feu jaune aux memes characteristiques que le feu xe poupe
+**feu visible sur tout l'horizon**: 360°
+**feu à éclat**: feu à éclats réguliers (≥120 éclats par minute)
+
+==== Portée lumineuse des feux ====
+navires ≥ 50m:
+	feu de tete de mat: 6 miles
+	everything else: 3 miles
+navires ≥ 20m et < 50m:
+	feu de tete du mat: 5 miles
+	everything else: 2 miles
+navire ≥ 12m and < 20m:
+	feu de tete du mat: 3 miles
+	everything else: 2 miles
+navire <12m:
+	feu de coté: 1 mile
+	everything 
+	
+	

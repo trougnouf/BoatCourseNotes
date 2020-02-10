@@ -1,0 +1,84 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-10T18:49:46+01:00
+
+====== phonenotes ======
+Created Monday 10 February 2020
+
+Glossaire
+
+https://fr.wikipedia.org/wiki/Glossaire_maritime
+Tribord: gauche
+Bâbord: droite
+Poupe: arrière
+Étrave: avant (syn=proue sur voilier)
+Mâture: ensemble des mâts
+
+
+Lights
+
+Rouge: tribord (gauche)
+Vert: bâbord (droite)
+Blanc: poupe
+
+Navire à voile: RG front, W poupe
+<20m: tous sur mâture, ou RG étrave W poupe
+≥20m: 3 feux séparés (côtés, poupe)
+Opt en route: red on top of green (RG360) on top of mat
+
+À moteur:
+RG side/front, W poupe, W tête de mât
+>50m: +W mât arrière (tw front), plus haut qu'avant
+<20m: RG can be combined
+<12m: WW can be combined
+
+Ancré:
+W360 (la ou il est le plus visible)
+>50m: 2nd W360 côté poupe plus bas. 1st (haut) près de l'ancre
+>100m: feux de pont
+Jour: boule
+
+Navire remorqueur:
+RG side, WY poupe
+Remorqué: pas de W proue
+<200m: 2x W mât
+>200m: 3x W mât, jour: marque biconique (both boats)
+
+Chaluteur (on train de pêcher):
+GW360 mat, (navigating: RG side, W poupe)
+>50m: W360 mât arrière (taller than front)
+Jour: 2 cônes reliés par leur pointe
+
+Pêcheur (en train de pêcher):
+RW360 mat (, navigating: RG side, W poupe)
+Jour: 2 cônes reliés par leur pointe
+
+Bateau-pilote:
+WR360 front mat (, navigating: RG side, W poupe)
+ancré: + W360 (highest) out 2W360 (>50m)
+jour: boule
+
+Navire handicapé par son tirant d'eau:
++ 3R360 (opt)
+Marque cylindrique
+
+Navire à capacité de manœuvre restreinte :
++ RWR360
+jour : marque: boule bicone boule
+
+Non-maitre de sa manœuvre :
++ 2R360
+(RG side, W poupe)
+
+Échoué :
+<12m: ancré + 2R360, 3 boules
+
+Démineur:
++3G360 on mât en triangle (2 vers le côté)
+jour: 3 boules à la place
+
+
+
+
+ 
+
