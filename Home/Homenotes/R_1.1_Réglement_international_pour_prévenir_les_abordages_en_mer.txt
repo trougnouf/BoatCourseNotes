@@ -59,3 +59,39 @@ signaux sonores:
 	. . . 		→ slowing self down
 pas de depassement - ecrasement. signaux sonores ne sont pas une excuse
 eviter de mouiller dans un chenal etroit
+entrée dans une zone à visibilité reduite: signal de warning ( - )
+**Dispositifs de séparation du traffic**
+naviguer à l'interieur du dispositif dans le bon sens, eviter la ligne/zone de separation
+essayer d'entrer/sortir dans une des extremités, sinon reduire l'angle le plus possible.
+éviter de couper les voies de circulation, mais si necessaire le faire perpendiculairement
+petits bateaux et bateaux à voiles evitent le dispositif (1-2 miles away pref.). evitent de gener les (plus grands) bateaux qui y sont.
+
+==== Section II: Conduite des navires en vue les uns des autres ====
+(s'applique lorsque la visibilité est assez bonne pour que des bateaux se voient)
+**Navires à voile**
+tribord armures: recoit le vent à tribord, voiles à babord
+babord armures: recoit le vent à babord, voiles à tribord
+__tribord armures est prioritaire__
+au vent: plus pres de l'origine du vent
+sous-vent: plus loin de l'origine du vent
+armures identiques: __sous-vent est prioritaire__
+si unsure et babord armures: pas prioritaire
+coté au vent peut etre derriere (observe les voiles)
+**Navire qui en rattrape un autre**
+tout navire qui en rattrape un autre doit s'ecarter de la route de ce dernier
+	rattrape un autre = <22.5 degrees = seul les feux arrieres sont visibles la nuit
+**Navires qui font des routes directement opposées**
+garder sur tribord pour passer à babord
+	route directement opposées: nuit: feux de mats ~superposés, 2 feux de cotés visible
+**Navires dont les routes se croisent**
+priorité de droite
+	de preference changement de cap vers tribord ( - ), sinon babord ( - - ) ou arriere ( - - - )
+		→ évite de suivre le meme cap
+**Manoeuvre du navire non privilégié**
+manoeuvrer de bonne heure et de maniere à s'écarter largement (obvious)
+**Manoeuvre du navire privilégié**
+maintenir cap et vitesse
+	sauf si l'autre bateau ne reagit clairement pas, alors effectuer seul la manoeuvre necessaire pour eviter l'abordage
+		mais eviter d'aller à babord si l'autre bateau est à babord (navires mechaniques)
+**Responsabilités réciproques des navires**
+
