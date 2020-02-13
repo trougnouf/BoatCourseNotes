@@ -1,0 +1,110 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-13T20:06:05+01:00
+
+====== 06 Manoeuvres à moteur ======
+Created Thursday 13 February 2020
+
+**safran**: plaque attachée au gouvernail
+
+barre de secours: tige qui peut remplacer la barre
+	more desperate: attache un seau à une corde et le balancer à tribord/babord
+
+secours vhf: canal 16
+
+Le gouvernail - Le safran
+	
+	//potential question?//
+	//est ce qu'il existe une portance sur un bateau?//
+	portance → sur quelque chose qui vole
+		planche a voile parfois (portance)
+	force anti-derive
+	force de resistance à l'avancement
+	force velique: voile, perpendiculaire à une corde
+	force de derive (almost none quand le vent est à l'arriere)
+	
+	pas tourner la barre à fond; counterproductive
+	
+	tourner avec peu de place: avancer et reculer en gardant la barre du meme coté
+
+L'avant du bateau bouge avec le vent (l'arriere pas)
+solution pour partir du quai avec du venti: attacher l'arriere et laisser l'avant sortir avec le vent
+
+**Cavitation**: l'acceleration d'un liquide cree une baisse de pression (hot)
+	damage l'helice quand elle tourne vite
+	(à ne pas confondre avec la ventilation)
+	
+	ventilation: moteur est levé trop haut et les pales touchent l'air exterieur
+
+**Comprendre et anticiper les reactions du bateau**
+	le courant prime sur le vent dans un port
+		mais prendre le vent en compte quand meme (au moment de l'entree)
+			pointe de girouette
+	
+	Facteurs à prendre en compte pour l'amarage:
+	* le vent: regarder la pointe de girouette, laissez passer les rafales
+	* le courant: reperer sa force et sa direction
+	* le bateau: taille, tirant d'eau, quille longue, fardage (prise de vent)
+	* le moteur: puissance, reaction, type d'helice (some are better for reverse, some are silent)
+	* propulseur d'etraves: aide a la manoeuvre dans les grands bateaux
+	* équipage: nombre, competences
+	* espace disponible
+
+**Le pas d'hélice**
+l'hélice à 2 forces: propulsion et latérale
+marche arriere: barre est inutile car le safran est à l'arriere
+
+pas gauche:
+	helice tourne à gauche pour avancer
+	pousse de l'eau à droite, bateau part à gauche
+	pousse à gauche: bateau va a droite
+	
+determine pas inconnu: mettre le bateau en marche arriere
+
+**Position d'attente**: cul au vent et marche arriere
+
+**Les amarres**
+	**amarres de pointe**: empeche le bateau de s'eloigner du quai (pointe en avant et en arriere)
+		depasse la longueur de la coque
+	**gardes** montantes (empeche le bateau d'avancer) et descandantes (empeche le bateau de reculer)
+		comme les amarres de pointe mais ne depasse pas le bateau, traverse le bateau diagonalement
+	**traversier**: avant et arriere, perpendiculaire
+	min: pointes, une des gardes (min: 3, ideal: 4)
+amarrage a couple: identique à l'amarrage sur un quai
+	amarres en dessous de la coque du voisin pour le laisser partir
+	passer par l'avant du bateau (plus d'intimité)
+autres amarrages:
+	cul a quai (sur ancre ou coffre): deroule un peu d'ancre et recule.
+		ancre peut se coincer. solution: attacher un floteur
+	sur pendille: cable au quai
+	sur catway: + comfortable
+	entre piles: bateau arrive en marche arriere et attache 2 pilliers puis recule et s'attache au quai
+	
+avant d'arriver au port:
+	carte, guide nautique, ...
+	canal vhf
+	hauteur d'eau, courant, vent
+	preparer le bateau
+		degager le pont
+		amarres et pare-battages
+	appeler le port avant d'entrer
+	preparer l'equipage
+	reperer la place (espace, type)
+	preparation de la manoeuvre
+		amarres a poste et pretes
+		pare-battages (hauteur, place)
+		
+ecluse:
+	cisaille: important dans les ecluses au cas ou accidentellement amarré à l'écluse
+	prendre en compte le pas de l'helice
+	longer le mur de l'ecluse
+		ne pas se mettre dans le chemin de la porte
+	passer l'amarre derriere les cables du mur de l'ecluse (amarres assez longues)
+	
+se garer: pointe - vent !
+
+remorquage: 
+	lance une amarre
+	plouf
+	ou lance une part-battage
+**Écluse**
