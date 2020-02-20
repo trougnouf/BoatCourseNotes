@@ -142,7 +142,20 @@ navire ≥ 12m and < 20m:
 	feu de tete du mat: 3 miles
 	everything else: 2 miles
 navire <12m:
+	feu de tete du mat: 2 miles
 	feu de coté: 1 mile
-	everything 
-	
-	
+	everything else: 2 miles
+navires remorqués partiellement submergés: feu blanc 360: 3 miles
+
+==== Navires à propulsion mécanique faisant route ====
+* feu de tete de mat à l'avant
+* >50m or opt: second feu de tete de mat à l'arriere du premier et plus haut que celui ci
+* feux de coté
+* feu de poupe
+* aéroglisseur: feux jaune à éclat 360°
+* naviron: feux rouge à éclat 360° (decolle, atterit, vole pres de la surface)
+* <12m: peut n'utiliser qu'un feux blanc 360° et feux de coté (peut ne pas centrer le feux blanc si feux de coté sont centrés)
+* <7m et ≤7noeuds: peut n'utiliser qu'un feux blanc 360°
+
+==== Remorquage et poussage ====
+

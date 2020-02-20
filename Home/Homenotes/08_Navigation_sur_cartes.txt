@@ -1,0 +1,49 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-16T20:35:01+01:00
+
+====== 08 Navigation sur cartes ======
+Created Sunday 16 February 2020
+
+===== Généralités =====
+probleme 1: depart d'un point connu, naviguant en ligne droite dans une direction sur une certaine distance, savoir ou l'on se trouve
+probleme 2: depart d'un point connu, savoir comment arriver a un point connu
+
+3 facons de se situer:
+* coordonnées geographiques, longitude et latitude sur les cartes marines
+	* coordonnees cartesiennes; position par rapport au meridien de Greenwich et à l'équateur
+* directions et distances dans le cockpit
+	* coordonnees polaires; position par rapport au point de départ
+* lieux géometriques
+	* points de reperes
+
+===== La navigation à l'estime =====
+**Nord vrai (Nv)**: Nord geographique determiné par l'axe de rotation de la terre. Nord des cartes géographiques et direction de reference absolue (meridien)
+**Nord magnétique (Nm)**: nord du champ magnetique terrestre
+**Nord du compas (Nc)**: soumis aux champs magnetiques terrestres ainsi qu'aux masses (electro)magnétiques du bateau
+probleme: passer du cap compas au cap vrai et vice versa
+
+**cap** (vrai, magnétique, compas): orientation de l'axe du bateau (statique)
+**route** vraie: orientation de la trajectoire du bateau par rapport au nord vrai
+route surface (Rs): route suivie sur l'eau
+route de fond (Rf): route par rapport au fond de l'eau
+
+Rs = Cv+der
+
+Cap compas (Cc): ligne entre foi du bateau et nord du compas
+déviation de compas (δ): entre nord du compas et nord magnetique. Deviation Est est positive
+
+**Déviation du compas (δ)**:
+
+
+
+
+
+cggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGCH
+
+eg: quel est Cm si navigation au Cc 135° ?
+	deviation ≈ 4° E
+	**Cm = Cc + δ** = 135+4 = 139 °
+
+
+

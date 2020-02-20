@@ -1,0 +1,129 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-20T19:54:19+01:00
+
+====== 07 Balisage et signalisation ======
+Created Thursday 20 February 2020
+
+===== Balisage =====
+question d'exam: bouée ouest: combien de fois elle clignotte. ou, ou est x bouee
+
+utilitees:
+* signale les dangers
+* aider a suivre un chenal
+* signaler les zones importantes pour la navigation
+
+2 systemes:
+* SIGNI: eaux interieures europeennes (pas dans ce cours)
+* IALA: mers ouvertes et voies navigables soumises à marées (2 systemes; regions A (ici) et B (ailleurs/Murica) sont inverses, surtout vert et rouge)
+
+Principes généraux du balisage
+* Tout ce qui bouge a des feux fixes
+* Tout le balisage a des feux a rythme
+* ...
+
+chenal est balisé
+question d'exam: ou est la mer
+
+sortir d'un port (port→mer):
+* bouee __r__ouges à tribord (bouees __paires__)
+* bouees __v__ertes à babord (bouees __impaires__)
+
+			__port__
+__R(even/carré)		G(odd/triangle)__
+			__mer__
+
+Schématisation: permet de se retrouver vers la carte
+	p17/20 (à connaitre)
+	eg:
+		Fl(4).10s: 4 flashes en 10 secondes (loop)
+		Iso.8s: 8s light then 8s dark
+	* Oc: occulting (duration of light > of dark)
+	* Iso: equal light/dark
+	* Fl: Single flashing
+	* LFl: Long flashing
+	* Q: continuous quick (constantly flashing on/off)
+	* Q(#): group quick
+	* IQ: interrupted quick
+	* VQ: continuous very quick
+	* VQ(#): group very quick
+	* IVQ: interrupted very quick
+	* UQ: continuous ultra-quick
+	* IUQ: interrupted ultra-quick
+	* Mo(K): morse code
+	* F Fl: fixed and flashing
+	* Al.WR: alternating (RG)
+
+tour: mat Est-Ouest / MOW (releve le nv des marees, courants, atm)
+
+
+marque laterales de separation de chenal:
+	couleur differente au milieu: suivre la couleur de centre de preference (rouge: babord, vert: tribord)
+	rond avec 4 bandes (2 paires): separation avec meme importance
+
+
+formes des bouees: 
+rouge: carré; vert: triangle
+2 boules noires: quelque chose à coulé (à eviter)
+rouge-blanc vertical: eaux saines
+X jaune: zone speciale (decrites sur la carte/doc)
+jaune: balisage des plages
++ jaune, avec jaune-bleu vertical: marque d'urgence (à eviter, will be replaced later)
+
+bouees cardinales: passe à (direction) de la bouee
+N: ^^: Q / VQ
+E: ^V: Q(3) 10s / VQ(3) 5s
+S: VV: Q(6) long gl. 15s / VQ(6) long fl. 10s
+W: V^: Q(9) 15s / VQ(9) 10s
+
+Signaux de brume:
+	distance: clueless
+	direction peut etre erronée
+	qq bateaux ont des cloches (irregulieres). corne de brume obligatoire pour grands batiments
+
+**Phares et feux**
+	phares de grand atterrissage: dans l'ocean: guide vers pays
+phare d'aterissage: le long des cotes
+phares à secteur:
+ 
+suivre le secteur blanc (Pas rouge/vert)
+		peut etre jaune sur carte
+	
+	Oc.G.7s29m7/2M:	29m: hauteur,	7/2M: miles of visibility
+	Ldg Lts 136°:	leading light 136°, suivre cet alignement avec boussole pour entrer dans le port
+	
+	Oc.6s36m3M ... est un phare d'alignement (en paire, suivre les 2)
+	
+	
+**Portée geographique et nominale d'un phare**
+nominale: portee par visibilite meteorologique de 10 miles
+geographique: depend de la hauteur de l'oeuil au dessus de l'eau
+	eg: observateur a 8m, foyer lumineux: 40m. portee@8m=5.9, portee@40m=13.1; 5.9+13.1=19miles
+
+
+===== Signalisation maritime =====
+3R superposed: interdiction de passer (si jaune a cote, autorisé sur chenal secondaire a cote)
+3R superposed flashing: danger grave, interdiction de passer (degager le passage immediatement)
+3G superposés: passage autorisé à sens unique
+2G superposés: passage autorisé dans les 2 sens
+GWG superposés: passage autorisé apres accord du pilotage par VHF
+Y scintillant: degagez
+diablo (jour)
+
+TODO
+**drapeaux**: a connaitre, surtout:
+Alpha: plongeur (2x1 WB)
+November: Non (4x4 wb)
+Charlie: Oui (1x5 BWRWB)
+Quebec: je demande la libre pratique (Y)
+November+Charlie: problem
+
+signaux numeriques:
+...
+
+substitut: # de la lettre utilisée
+
+Signaux sonores et visuels: TODO (repris dans le RIPAM)
+
+(Signaux de) detresse: fusees, canaux de sauvetage, bouees/balises de sauvetage
+
