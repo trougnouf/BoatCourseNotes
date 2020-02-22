@@ -20,3 +20,35 @@ ARIES2019
 
 [[+Homenotes]]
 
+courses up to Marées et courants, exercises
+TODO at home:
+* prev chapters
+* La navigation 1: estime, relevements
+* La navigation 1: cap, route, dérive
+* Reglement RPNE/CEVNI 1
+* Reglement RPNE/CEVNI 2
+* Hygiene et premiers secours à bord
+* Meteorologie 1 notions elementaires
+* Reglement de l'Escaut maritime, de la mer territoriale et BAZ
+* Revision (prev chapters, notes, practice exams)
+
+schedule: (
+WE8:
+S9:
+WE9
+S10
+WE10
+S11
+WE11
+(12: CLIC/CVPR deadline)
+S13
+WE13
+(~14 sailing w/Margot)
+S15
+WE15
+
+S16: review
+WE16: review
+
+23/04 (S17) exam!
+25/04 boat course

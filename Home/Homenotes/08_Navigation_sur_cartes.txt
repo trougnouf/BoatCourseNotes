@@ -18,9 +18,13 @@ probleme 2: depart d'un point connu, savoir comment arriver a un point connu
 	* points de reperes
 
 ===== La navigation à l'estime =====
+
+==== Trois directions de Nord ====
 **Nord vrai (Nv)**: Nord geographique determiné par l'axe de rotation de la terre. Nord des cartes géographiques et direction de reference absolue (meridien)
 **Nord magnétique (Nm)**: nord du champ magnetique terrestre
 **Nord du compas (Nc)**: soumis aux champs magnetiques terrestres ainsi qu'aux masses (electro)magnétiques du bateau
+
+==== Caps et routes ====
 probleme: passer du cap compas au cap vrai et vice versa
 
 **cap** (vrai, magnétique, compas): orientation de l'axe du bateau (statique)
@@ -30,20 +34,37 @@ route de fond (Rf): route par rapport au fond de l'eau
 
 Rs = Cv+der
 
+==== Formule fondamentale ====
+
 Cap compas (Cc): ligne entre foi du bateau et nord du compas
 déviation de compas (δ): entre nord du compas et nord magnetique. Deviation Est est positive
 
 **Déviation du compas (δ)**:
 
-
-
-
-
-cggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGCH
-
 eg: quel est Cm si navigation au Cc 135° ?
 	deviation ≈ 4° E
 	**Cm = Cc + δ** = 135+4 = 139 °
 
+**Cap magnétique (Cm)**
 
+**Déclinaison magnétique (D)**
+**Cap vrai (Cv)**
+**Dérive (d)**
+**Route vraie (Rv) ou route surface (Rs)**
+**Formule de base complete**
 
+===== La navigation à l'estime sans courant =====
+
+===== La navigation à l'estime avec courant =====
+
+===== Faire le point =====
+
+===== Notions de pilotage =====
+
+===== Exercises de navigation =====
+
+===== Exercises de navigation de révision =====
+
+===== Exercises supplémentaires =====
+
+===== QCM de navigation =====
