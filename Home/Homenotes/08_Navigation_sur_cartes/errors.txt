@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-23T19:14:29+01:00
+
+====== errors ======
+Created Sunday 23 February 2020
+
+===== Chapitre 8: La navigation sur cartes =====
+3.2 exemple: Cc donné, devrait etre Rs
+4.3 example:
+	6h avant PM (5h donné)
+	Cc = 104° puis Cc = 135°
+δ = 3° puis δ=4°

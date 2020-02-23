@@ -20,9 +20,9 @@ probleme 2: depart d'un point connu, savoir comment arriver a un point connu
 ===== La navigation à l'estime =====
 
 ==== Trois directions de Nord ====
-**Nord vrai (Nv)**: Nord geographique determiné par l'axe de rotation de la terre. Nord des cartes géographiques et direction de reference absolue (meridien)
-**Nord magnétique (Nm)**: nord du champ magnetique terrestre
-**Nord du compas (Nc)**: soumis aux champs magnetiques terrestres ainsi qu'aux masses (electro)magnétiques du bateau
+**Nord vrai (Nv)**__: Nord geographique determiné par l'axe de rotation de la terre__. Nord des __cartes__ géographiques et direction de reference absolue (__meridien__)
+**Nord magnétique (Nm)**__: nord du champ magnetique terrestre__
+**Nord du compas (Nc)**: soumis aux champs magnetiques terrestres ainsi qu'aux __masses (electro)magnétiques du bateau__
 
 ==== Caps et routes ====
 probleme: passer du cap compas au cap vrai et vice versa
@@ -36,8 +36,10 @@ Rs = Cv+der
 
 ==== Formule fondamentale ====
 
+__ordre de mesure: Nv, Nm, Nc, bateau__
+
 Cap compas (Cc): ligne entre foi du bateau et nord du compas
-déviation de compas (δ): entre nord du compas et nord magnetique. Deviation Est est positive
+__déviation de compas (δ)__: entre nord du compas et nord magnetique. Deviation Est est positive
 
 **Déviation du compas (δ)**:
 
@@ -46,18 +48,143 @@ eg: quel est Cm si navigation au Cc 135° ?
 	**Cm = Cc + δ** = 135+4 = 139 °
 
 **Cap magnétique (Cm)**
-
+Cap vers le Nord magnétique (Nm)
+Cc+δ=Cm
 **Déclinaison magnétique (D)**
+Mesuré du Nord vrai vers le Nord magnétique
+Cv=Cm+D
 **Cap vrai (Cv)**
+Cv=Cc+δ+D
+Angle du Nord géographique vers la ligne de foi du bateau
 **Dérive (d)**
+difference entre le cap vrai (axe du bateau) et la direction du bateau (sillage, du au vent et such) 
+Cv+d = Rs=Rv
+Rv ≠ Cv
 **Route vraie (Rv) ou route surface (Rs)**
+angle entre le Nord vrai et la trajectoire du bateau
+identique à Route sur le fond (Rf) sans courant
 **Formule de base complete**
+Rv|Rs = Cc+δ+D+d
 
 ===== La navigation à l'estime sans courant =====
+**Probleme 1: Calculer sa route surface**
+eg:
+	Cc = 147
+	D = 3W = -3
+	δ=4E = 4
+	Bb amure (=vent vient de babord)
+	d = 6 Tb (pousse à tribord / vient de babord) = 6
+	Rs = Cc+D+δ+d = 147-3+4+6=154
+**Probleme 2: Calculer le cap compas**
+cap compas à donner au barreur
+
+eg:
+	Erreur dans le cours; ~~Cc=154 → ~~__Rs=154__
+	D=3W=-3, δ=4E=4, d=6tb=6
+	Cc+δ+D+d=Rs; Cc = Rs-δ-D-d = 154-4+3-6 = 147
+
+Sometimes need to recalculate multiple times since δ changes based on orientation
 
 ===== La navigation à l'estime avec courant =====
 
+==== Les courants de marée ====
+courant de **flot**: courant de marée montante
+courant de **jusant**: courant de marée descendante
+renverse environ de la mi-marée
+
+table des marées (force/direction per hour in dif areas) ou atlas des marées (bigger area, generalized)
+
+==== La route sur le fond (Rf) ====
+-->-- : route vraie (Rv) ou route surface (Rs)
+-->->--: route de fond (Rf)
+-->->->--: Courant (Crt)
+Trajectoire par rapport au fond de la mer
+Rf=Rs+Crt
+
+	spring: strongest current; neap: weakest current (2w period)
+
+
+==== Corriger sa route avec courant ====
+eg:
+	1h à 4 noeuds au Cc 135°
+	D=3W=-3, δ=4, derive=6Tb=6
+	5h avant PM → Dir 211, Rate(kn) = 12 Sp, 12 Np
+	find Rf
+	Rs=Cc+D+d+δ = 135-3+4+6 = 142
+		Rf=Rs+Crt
+	
+		Rs = 142° / 4n
+		Crt = 211° / 1.6
+		a^{2}+b^{2}-2ab Cos(C)=c^{2}
+		c = sqrt(4^2+1.6^2−4×1.6×cos(142)) = 4.8583°
+		...
+		TODO w/ compas pointe seche
+		
+==== Faire valoir sa route avec le courant ====
+calculer la Rs qui neutralise l'effet du courant, ensuite calculer le Cc à donner au barreur
+Cm=Rs-d-D puis Cm-δ=Cc
+	estimer la derive d quitte à corriger ensuite
+TODO
+
+==== Faire valoir sa route avec courant sur longue distance ====
+faire valoir la route au prealable en integrant tous les courants et en deduire la route fond reelle, verifier qu'il n'y a pas d'obstacles
+necessaire de connaitre la vitesse du bateau pour faire valoir la route
+sur un voilier corriger toutes les heures
+
+==== L'incertitude de l'estime ====
+erreur causée par:
+* inattention du barrer
+* compas mal corrigé
+* erreurs de loch (non application des coefficients de correction, marche trop lente du bateau)
+* erreurs d'estimation de la derive (majeur)
+* interpolation de Sp / Np
+* erreur sur les courants: influence de vents forts (6+)
+estimer souvent (faire le point), surtout a proximité de dangers
+
 ===== Faire le point =====
+
+==== Faire le point ====
+se reperer par rapport à des points de reperes marqués sur les cartes
+**Relevement - Zc ou **{{./equation.png?type=equation}}
+relevement d'un amer = angle mesuré du N jusqu'a sa direction
+* relevement vrai {{./equation001.png?type=equation}} or Zv
+* relevement magnétique {{./equation002.png?type=equation}} ou Zm
+* relevement compas {{./equation003.png?type=equation}} ou Zc
+Zv=Zc+δ+D
+Relevement = cap + gisement
+**Gisement (G, ou angle au bossoir)**
+angle mesuré du centre du bateau jusqu'a la direction d'un amer
+Zc=Cc+Gc
+
+==== Determiner sa position avec un amer en vue ====
+
+**Un gisement et une distance**
+mesurer gisement de l'amer d'un point A (et loch/vitesse)
+mesurer gisement de l'amer d'un point B qui est 2x plus grand que 1er(et lock/vitesse)
+loch diff = distance
+	aussi distance distance de l'amer
+calculer Zv avec G2 pour obtenir la position du point B
+**Un relevement et la distance d'un phare**
+(hauteur des feux données pour HM → ajouter niveau d'eau de la mer)
+utiliser les distances dans la table (viewer et phare) quand le phare devient invisible à l'horizon
+
+**Un relevement et une sonde**
+suivre lignes isobathe sur la carte
+(peu fiable)
+**Deux relevements d'un amer avec deplacement**
+note cap, heure, loch, amer
+2eme releve
+trace a-to-amer
+trace Rs avec distance parcourue (a-to-b)
+dessine le vecteur courant (point c)
+transporte premier relevement (a-to-amer) // a celui ci jusqu'au point c
+trace le 2nd relevement
+intersect=pos
+
+==== Determiner sa position avec plusieurs amers en vue ====
+**Relevements simultané de deux amers**
+
+==== L'incertitude des relevements ====
 
 ===== Notions de pilotage =====
 
