@@ -4,6 +4,7 @@ Creation-Date: 2020-02-16T20:35:01+01:00
 
 ====== 08 Navigation sur cartes ======
 Created Sunday 16 February 2020
+[[../../../Scans/Brevet de conduite générale/8 La navigation sur cartes_ocr.pdf]]
 
 ===== Généralités =====
 probleme 1: depart d'un point connu, naviguant en ligne droite dans une direction sur une certaine distance, savoir ou l'on se trouve
@@ -120,6 +121,7 @@ eg:
 		...
 		TODO w/ compas pointe seche
 		
+
 ==== Faire valoir sa route avec le courant ====
 calculer la Rs qui neutralise l'effet du courant, ensuite calculer le Cc à donner au barreur
 Cm=Rs-d-D puis Cm-δ=Cc
@@ -147,9 +149,12 @@ estimer souvent (faire le point), surtout a proximité de dangers
 se reperer par rapport à des points de reperes marqués sur les cartes
 **Relevement - Zc ou **{{./equation.png?type=equation}}
 relevement d'un amer = angle mesuré du N jusqu'a sa direction
-* relevement vrai {{./equation001.png?type=equation}} or Zv
-* relevement magnétique {{./equation002.png?type=equation}} ou Zm
-* relevement compas {{./equation003.png?type=equation}} ou Zc
+* relevement vrai {{./equation001.png?type=equation}}
+ or Zv
+* relevement magnétique {{./equation002.png?type=equation}}
+ ou Zm
+* relevement compas {{./equation003.png?type=equation}}
+ ou Zc
 Zv=Zc+δ+D
 Relevement = cap + gisement
 **Gisement (G, ou angle au bossoir)**
@@ -180,9 +185,14 @@ dessine le vecteur courant (point c)
 transporte premier relevement (a-to-amer) // a celui ci jusqu'au point c
 trace le 2nd relevement
 intersect=pos
+TODO understand this
 
 ==== Determiner sa position avec plusieurs amers en vue ====
 **Relevements simultané de deux amers**
+Mesure 2 Zc, convertis les en Zv, trouve intersection
+	bateau immobile, ou 2 compas simultanes, ou le bateau navigue dans la direction du 1er relevement
+	il vaut mieux commencer avec l'amer dans le relevement change le moins vite quel que soit sa distance
+**Relevement simultané de trois amers**
 
 ==== L'incertitude des relevements ====
 
