@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-01T17:35:22+01:00
+
+====== erreurs ======
+Created Sunday 01 March 2020
+
+a4) bateau à voiles: tout bateau utilisant exclusivement ses voiles
+__moteur__ pour naviguer; le bateau qui navigue à la voile et utilise en
+même temps son moteur doit être considéré comme un bateau
+motorisé;

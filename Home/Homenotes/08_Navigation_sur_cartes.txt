@@ -193,12 +193,43 @@ Mesure 2 Zc, convertis les en Zv, trouve intersection
 	bateau immobile, ou 2 compas simultanes, ou le bateau navigue dans la direction du 1er relevement
 	il vaut mieux commencer avec l'amer dans le relevement change le moins vite quel que soit sa distance
 **Relevement simultané de trois amers**
+3 relevements resultent en un triangle=zone d'incertitude
+**Relevement simultané de deux amers avec déplacement**
+(relevements ne sont pas simultanés)
+take r1 then later r2, move r1 // to itself along known Rf
+**Relevement et alignement**
+alignement = 2 phares alignés qui indiquent la direction à suivre pour atteindre un port et permettent de se reperer sur la carte, trouver Nc, ...
 
 ==== L'incertitude des relevements ====
+erreurs:
+* mauvais temps
+* compas mal corrigé
+* amers trop eloignés
+* arrondissements
+* angle trop aigu (devrait etre > 60°)
+proportionelle a la distance et angle
 
 ===== Notions de pilotage =====
+materiel: carte de detail, instructions nautiques, livre des feux, annuaire des marees, compas de relevement
+**passer à une distance determinee d'un danger**
+route AB avec danger pres de B: distance d du danger: prend un cap a 30° sur une distance de 2d
+**relevements limites**
+chenal dangereux: choisir un amer sur la carte, trace 2 lignes entre lesquelles il est prudent de naviguer, garger la R_{f} du bateau entre ces 2 prelevements 
+**doubler un danger à la sonde**
+navigue vers une ligne de sonde parant le danger, longe cette ligne jusqu'a rencontrer son croisement avec une ligne plus profonde (isobathe)
+**suivre un alignement**
+la plupart des chenaux sont balisés par des alignements: 2 poteaux portant un triangle, plus petit devant.
+petit poteau à gauche du grand→ vire à babord
+petit poteau à droite → vire à tribord
+vers les ports, amers sont complementés de feus et formes décrits sur la carte
+**route convergente de deux navires**
+(gisement = angle entre l'axe du navire et la direction d'un objet)
+gisement diminuent: l'autre bateau passera avant
+gisement contant: les bateaux se rencontreront
+gisement qui augmente: notre bateau passera avant
 
 ===== Exercises de navigation =====
+TODO
 
 ===== Exercises de navigation de révision =====
 

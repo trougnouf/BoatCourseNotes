@@ -5,20 +5,17 @@ Creation-Date: 2020-01-23T19:46:55+01:00
 ====== Home ======
 Created Thursday 23 January 2020
 
-2020-01-23
-
-login:
-bsa2019
-bsa9102
-parking 2354e
-8075a
-
-
-directeur: michel clovart
-
-ARIES2019
+[[+03 Technologie]]
+[[+04 Moteur]]
+[[+05 Instruments et cartographie marine]]
+[[+06 Manoeuvres à moteur]]
+[[+07 Balisage et signalisation]]
 
 [[+Homenotes]]
+
+[[+misc]]
+
+
 
 courses up to Marées et courants, exercises
 TODO at home:
