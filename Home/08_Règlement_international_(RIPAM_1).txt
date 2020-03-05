@@ -1,0 +1,56 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-05T20:13:52+01:00
+
+====== 08 Règlement international (RIPAM 1) ======
+Created Thursday 05 March 2020
+
+cours par Didier Putzeys
+
+[[../../Scans/Règlement/1. 1. Réglement international pour prévenir les abordages en mer_ocr.pdf]]
+
+usufel website: windguru: courants, vent (direction et puissance)
+
+priorité → privilege
+
+R1: champ d'application
+	tous les navires en haute mer et toutes les eaux accessibles aux navires de mer
+
+R2: responsabilité
+	obligation d'avoir le reglement (RIPAM et locale) à bord
+	obligation d'eviter tout danger immediat
+	aucune disposition des regles exonere le capitaine / equipage. prendre compte de toutes les conditions qui obligent à s'ecarter des regles.
+	risque = danger. big boat = faster.
+	ne pas eviter l'evitable = tord
+R3: definitions
+	navire: tout engin ou appareil y compris les engins sans tirant d'eau et les hydravions, utilises ou suppeptibles d'etre utilise comme moyen de transport sur l'eau
+	NAPM: navire à propulsion mechanique: tout navire mu par une machine
+	
+cone renversé: navigation à la voile et au moteur
+navire en train de pecher: pas necesserement un chalutier
+
+navire qui n'est pas maitre de sa manoeuvre: exceptionellement ne peut pas appliquer le reglement du ripam (eg: panne de machine / gouvernail)
+
+navire a capacite de manoeuvre restrainte:
+	eg: dragage, hydrographie, travaux sous-marins, ...
+	
+navire handicape par son tirant d'eau:
+	peut difficilement modifier sa route a couse de la profondeur / son tirant d'eau
+
+navire qui fait route: ni a l'ancre, ni amare, ni echoue (meme immobile ou si l'ancre derape)
+
+R5: veille: tout navire doit en permanence assurer une veille visuelle et auditive appropriée
+R6: vitesse de securité: depend de facteurs s.a. vent, visibilité, ...
+R7: risque d'abordage: tout navire doit tout faire pour limiter risque d'abordage
+	il y a risque d'abordage si le relevement au compas d'un navire qui s'approche ne change pas de maniere appreciable
+R8: manoeuvre pour eviter les abordages:
+	executer les manoeuvres franchement, largement a temps, et conformement aux bons usages maritimes
+	changement de cap assez important (30° min)
+R9: chenaux etroits:
+	naviguer aussi pres que possible de la limite exterieure droite
+	navires de - de 20m: pas gener les grands bateaux
+	navires en train de pecher ne peuvent pas gener le passage d'autres navires dans un chenal etroit
+	dans un coude on emet un song long, si il n'y a pas assez de place pour 2 le navire allant a contre courrant doit ceder le passage
+	 
+	
+	

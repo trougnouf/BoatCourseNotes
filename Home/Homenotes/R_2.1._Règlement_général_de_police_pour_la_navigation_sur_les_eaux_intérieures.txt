@@ -5,6 +5,8 @@ Creation-Date: 2020-03-01T16:42:50+01:00
 ====== R 2.1. Règlement général de police pour la navigation sur les eaux intérieures ======
 Created Sunday 01 March 2020
 
+[[../../../Scans/Règlement/2.1. Règlement général de police pour la navigation sur les eaux intérieures_ocr.pdf]]
+
 RPNE (BE) basé sur CEVNI (EU)
 currently applicable where there are no specific local rules. in the future will be EU-wide.
 
@@ -17,18 +19,20 @@ ports d'anvers et de ghant: reglement specifique
 
 ===== Chapitre 1: Prescriptions générales =====
 
-==== Répartition générale ====
+==== Vocab ====
+
+=== Répartition générale ===
 **bateau**: toute embarcation y compris les objets sans deplacements et hydravions apte à etre utilisé comme __moyen de transport sur l'eau__
 **installation flottante**: construction flottante qui n'est pas déplacée
 **matériel flottant**: toute construction apte à etre deplacée sur l'eau (autre que bateau)
 
-==== Nature des bateaux ====
+=== Nature des bateaux ===
 * **menue embarcation**: bateau de <20m sauf si déplace autre chose
 * **grand bateau**: autre que menue embarcation
 * **bateau motorisé**: bateau qui utilise principalement son moteur pour se déplacer
 * **bateau à voile**: bateau utilisant exclusivement ses voiles pour se deplacer (bateau motorisé quand utilise son moteur)
 
-==== Types particuliers de bateaux ====
+=== Types particuliers de bateaux ===
 * **engin flottant**: bateau portant des installations mécaniques destiné à travailler sur les voies navigables en dans les ports
 * **barge de poussage**: bateau construit/aménagé pour etre poussé
 * **barge de navire**: barge de poussage construite pour etre transporté à bord d'un d'un bateau de mer, et utilisé en eaux intérieures
@@ -37,13 +41,13 @@ ports d'anvers et de ghant: reglement specifique
 * **canot de service**: bateau utilisé uniquement pour l'embarquement/debarquement
 * **bateau rapide**: grand bateau capable de naviguer à >40km/h par rapport à l'eau
 
-==== Convois ====
+=== Convois ===
 * **convoi**: combinaison avec bateau motorisé qui assiste ou formation à couple
 * **convoi remorqué**: 1+ bateau motorisé (remorqueurs), 1+ materiel flottant
 * **convoi poussé**: 1+ bateau motorisé (pousseur), 1+ autre bateau
 * **formation à couple**: convoi constitué de bateau accouplés cote à cote
 
-==== Exploitation ====
+=== Exploitation ===
 * **en stationnement** : ancré / amarré à un point fixe
 * **faire route**: ni à l'ancre, ni amarré à un point fixe, ni échoué
 * **bateau en train de pecher**
@@ -54,10 +58,18 @@ ports d'anvers et de ghant: reglement specifique
 * **navigation à grande vitesse**: >20km/h
 * **vitesse de sécurité**: vitesse à laquelle un bateau/convoi peut naviguer et manoeuvrer pour s'arreter à une distance adaptee aux circonstances et conditions
 
-==== Signalisation ====
+=== Signalisation ===
 **feu blanc, feu rouge, feu vert, feu jaune, feu bleu, feu puissant, feu claire, feu ordinaire**
 **feu scintillant**: 50 à 60 eclats par minute (~1/sec)
 **son bref**: signale sonore d'une durée d'environ 1sec
 **son prolongé**: ~4s separé d'~1s
 **série de sons tres brefs**: ≥6 sons, ~.25s each, ~.25s sep
 **nuit**, **jour**
+
+=== Autres ===
+**état de fatigue**: vitesse de réaction anormale
+**chenal**: partie de la voie navigable effectivement utilisable pour la navigation
+**ADN**: regle sur le transport de marchandises dangereuses
+**certificat de visite, certificat communautaire, commission de visite**
+
+==== Conducteur ====
