@@ -69,11 +69,11 @@ petits bateaux et bateaux à voiles evitent le dispositif (1-2 miles away pref.)
 ==== Section II: Conduite des navires en vue les uns des autres ====
 (s'applique lorsque la visibilité est assez bonne pour que des bateaux se voient)
 **Navires à voile**
-tribord armures: recoit le vent à tribord, voiles à babord
-babord armures: recoit le vent à babord, voiles à tribord
+__tribord armures__: recoit le vent à tribord, voiles à babord
+__babord armures__: recoit le vent à babord, voiles à tribord
 __tribord armures est prioritaire__
-au vent: plus pres de l'origine du vent
-sous-vent: plus loin de l'origine du vent
+__au vent__: plus pres de l'origine du vent
+__sous-vent__: plus loin de l'origine du vent
 armures identiques: __sous-vent est prioritaire__
 si unsure et babord armures: pas prioritaire
 coté au vent peut etre derriere (observe les voiles)

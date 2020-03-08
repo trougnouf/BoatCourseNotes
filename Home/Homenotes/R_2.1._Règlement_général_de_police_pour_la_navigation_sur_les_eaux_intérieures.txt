@@ -73,3 +73,62 @@ ports d'anvers et de ghant: reglement specifique
 **certificat de visite, certificat communautaire, commission de visite**
 
 ==== Conducteur ====
+
+...
+
+===== Chapitre 6: Regles de route =====
+
+==== Section 1: Generalites ====
+rencontre: croisement opposés
+dépassement: par derriere
+routes qui se croisent: autres croisements (ces regles sont moins prioritaires que 2 dessus)
+bateau rapide: doit laisser aux bateaux lents l'espace necessaire pour manoeuvrer
+menue embarcation: moins prioritaire que grand bateau
+radiotelephonie: doit etre utilisé pour annoncer manoeuvre
+
+==== Section 2: Rencontres, routes qui se croisent, dépassement ====
+**principes generaux:**
+* passage permis que lorsque le chenal est suffisamment large pour permettre le passage simultané
+* signaux prescris montres/donnes que par le bateau a bord duquel se trouve le conducteur du convoi, ou dans le cas d;un convoi remorqué par le bateau remorqué en tete du convoi
+* les bateaux qui font route excluant tous dangers d;abordage ne peuvent pas modifier leur route ou vitesse de maniere a creer un danger d'abordage
+* tout conducteur qui constate un __danger d'abordage__ doit emettre __une série de sons tres brefs__
+**routes qui se croisent:**
+* le bateau qui suit le coté du chenal á tribord est tenu de maintenir sa route et l'autre de s'écarter
+* sinon:
+	* priorite de droite (sauf 6.13,6.14,6.16)
+	* menues embarcations: moteur laisse la priorite a la voile et a la force musculaire, force musculaire s'ecarte de voile
+	* 2 bateaux a voile de meme taille:
+		* vent à droite (tribord armure) est prioritaire
+		* meme vent: plus pres du vent (au vent) est prioritaire
+		* unsure: vent à gauche (babord armure) n'est pas prioritaire
+**rencontre**
+* le bateau qui suit le cote du chenal a tribord est tenu de maintenir sa route et l'autre de s'ecarter
+* pas sur le cote du chenal:
+	* les 2 bateaux virent à gauche (sauf menue et grand)
+	* menues embarcations: voile > muscle > moteur
+**rencontre entre grands bateaux**
+peut signaler son intention de passer à babord si sans danger
+	2 sons brefs
+	nuit: feu blanc scintillant 360, panneau bleu clair avec bord blanc
+	jour: feu clair scintillant 360, panneau bleu clair avec bord blanc
+	reponse negative: plusieurs sons tres brefs
+**rencontre d'un bateau rapide et un autre bateau**
+2 passages precedentes ne s'appliquent pas. 2 rapides peuvent utiliser la radio
+**rencontre dans un passage etroit**
+son prolongé si vue restrainte (a repeter pendant le passage si necessaire)
+courant: bateau montant doit laisser le passage (peu importe la taille)
+obstactle a tribord laisse la priorite a celui qui a la voie libre (sauf menue+grand)
+menue:
+	voile a la priorite sur moteur / force
+voiles (meme taille): au vent (plus pres du vent) est prioritaire. si meme vent, celui qui recoit le vent de tribord a priorite
+signaux peuvent changer les regles
+
+==== Section 3: Autres regles de route ====
+
+==== Section 4: Bacs ====
+
+==== Section 5: Passage de ponts, des barrages, et des ecluses ====
+
+==== Section 6: Mauvaise visibilité, navigation au radar ====
+
+==== Section 7: Regles speciales ====
