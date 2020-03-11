@@ -9,3 +9,8 @@ Created Sunday 08 March 2020
 
 
 ==== Signalisation en cours de route ====
+* bateau motorisé: RG sides, W back, W front
+* grand bateau motorisé: RG sides, W back, WW front (2 mats)
+* bateau motorisé assisté: same, ballon jaune en journée
+* bateau rapide: + 2 feux jaunes scintillants
+* bateau remorqueur/assistant: Y back, WW front (meme mat). jour: WBYBW banneer

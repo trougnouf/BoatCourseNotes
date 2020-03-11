@@ -11,4 +11,4 @@ Created Sunday 08 March 2020
 2. B (priorite de droite, et B est plus gros)
 3. B (avec le courant)
 4. B (1.2b p33/78, signs: TODO revise before exam)
-5. (1.2b signalisation en cours de route, lights: TODO revise before exam)
+5. ([[../../../../Scans/Règlement/1.2. b. Appendice 3 Signalisation visuelle INCOMPLET_ocr.pdf|1.2b]] signalisation en cours de route, lights: TODO revise before exam)
