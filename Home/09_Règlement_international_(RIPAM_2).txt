@@ -1,0 +1,49 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-12T20:16:25+01:00
+
+====== 09 Règlement international (RIPAM 2) ======
+Created Thursday 12 March 2020
+
+[[../../Scans/Règlement/1. 1. Réglement international pour prévenir les abordages en mer_ocr.pdf]]
+
+R10: Dispositifs de separation du traffic
+	a. s'ecarter de la ligne de separation, rester a droite, entrer/sortir avec un angle reduit par rapport au traffic
+	b. utilisation encouragée
+	c. ne pas gener le passage des gros navires
+R11: Champ d'application
+	a. conduite des navires en vue les uns des autres
+R12: navires a voiles
+	tribord amure (bateau qui recoit le vent a droite) a priorité
+	bateau qui se trouve sous le vent (recoit le vent en 1er) de l'autre est prioritaire
+	unsure: assume no priority
+R13: navire qui en rattrape un autre (= ≤22.5°)
+	s'ecarter (franchement) de la route du navire rattrapé
+R14: navires qui font des routes directement opposées
+	les 2 navires restent a droite
+	son court
+R15: navires dont les routes se croisent:
+	navire qui voit l'autre a droite s'ecarte (priorite de droite)
+R16:
+R17: garder cap et vitesse si prioritaire
+	sauf si l'autre navire ne va clairement rien faire et qu'on peut seul eviter l'abordage
+R18: responsabilite reciproque des navires
+	priorites:
+		navire pas maitre de sa manoeuvre
+		navire a capacite de manoeuvre restreinte
+		navire handicape par son tirant d'eau
+		navire en train de pecher
+		navire a voile
+		navire a propulsion mecanique
+R19: conduite des navires par visibilite reduite
+	tout navire doit naviguer a une vitesse de securite adaptee aux cironstances existantes et aux conditions de visibilite reduite. moteurs prets a manoeuvrer.
+
+lights:
+RG sides
+moteur: feu de tete de mat et arriere
+> 50m: 2eme feu de tete de mat derriere +haut
+
+aeroglisseur: montre un feu jaune a eclat visible sur tout l'horizon
+
+
+
