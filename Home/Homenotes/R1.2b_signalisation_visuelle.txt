@@ -13,4 +13,27 @@ Created Sunday 08 March 2020
 * grand bateau motorisé: RG sides, W back, WW front (2 mats)
 * bateau motorisé assisté: same, ballon jaune en journée
 * bateau rapide: + 2 feux jaunes scintillants
-* bateau remorqueur/assistant: Y back, WW front (meme mat). jour: WBYBW banneer
+* bateau remorqueur/assistant: Y back, WW front (meme mat). jour: WBYBW banner
+	* ne navigant pas en file: WWW front
+* remorqué: W360 (jour: ballon jaune)
+	* >110m: 2W360
+	* convoi bord à bord: signals on extremités
+	* dernier bateau d'un convoi remorqué: W360, W back
+	* to/from mer: RG sides, Wback
+* poussé
+	* 3W back (Y when "assisté), RB side, 4+ front
+
+* B: flammable, BB toxique, BBB explosif
+* {{./equation.png?type=equation}}
+ bac ne naviguant pas librement (jour: ballon blanc)
+* drapeau rouge: prioritaire
+* drapeau rouge a main (ou 2 feux rouges / ballons noirs): incapable de manoeuvrer
+* {{./equation001.png?type=equation}}
+ on each side: engin flottant ou bateau au travail: passage libre
+
+==== Balisage supplementaire des lacs et voies navigables de grande largeur ====
+marques cardinales: passer dans le cadrant indiqué
+* N: ^{B}_{Y }^{^}_{^}
+* E ^{B}y_{B }^{^}_{V}
+* S ^{Y}_{B} ^{V}_{V}
+* W ^{Y}b_{Y }^{V}_{^}

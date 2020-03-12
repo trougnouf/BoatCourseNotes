@@ -10,5 +10,13 @@ Created Sunday 08 March 2020
 1. A (vent à droite de A)
 2. B (priorite de droite, et B est plus gros)
 3. B (avec le courant)
-4. B (1.2b p33/78, signs: TODO revise before exam)
-5. ([[../../../../Scans/Règlement/1.2. b. Appendice 3 Signalisation visuelle INCOMPLET_ocr.pdf|1.2b]] signalisation en cours de route, lights: TODO revise before exam)
+
+
+11. B (1.2b p33/78, signs: TODO revise before exam)
+([[../../../../Scans/Règlement/1.2. b. Appendice 3 Signalisation visuelle INCOMPLET_ocr.pdf|1.2b]] signalisation en cours de route, lights: TODO revise before exam)
+12. B (convoi poussé large vu de l'arriere. avant montre RG sides, 
+13. C (bateau ou engin flottant au travail, le passage est libre des 2 cotes. bac = ^{g}_{w} ou ballon vert, pecheur: ^{R}_{W} ou cones ^{V}_{^})
+14. coté libre d'un bateau a capacite de manoeuvre restraine (also GG). centre montre boule-diamond-boule ou WRWR, coté entravé à 2 boules ou RR. (incapable de manoeuvrer: 2 boules ou RR ou red hand flag)
+15. pavillon A: B-W: bateau utilisé pour la plongée (prioritaire: pavillon rouge, entretien: ^{G}_{G }^{G}_{G})
+16. C. W: yby (alphabetical order, [[R1.2b signalisation visuelle]])
+17. C. handicapé (^{R}R_{R})
