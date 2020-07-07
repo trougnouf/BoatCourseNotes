@@ -1,0 +1,143 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-07T09:26:54+02:00
+
+====== VHF ======
+Created Tuesday 07 July 2020
+
+certificat: personnel; license: bateau
+VHF freq: [156 MHz, 162 MHz]
+DSC: Digital Selective Calling (fr: ASN)
+
+SOLAS: Safety Of Life At Sea: premiere convention radio maritime
+
+OMI crée ITU qui coordonne GMDSS dans le monde et auteur du __RR__ (Reglement des Radiocommunications)
+IBPT: org specifique en Belgique
+
+Indicatif d'appel / __Call sign__: identification unique du bateau (**ON à OT** + num, oral). eg: O**S**2528
+__MMSI__: programmé dans la radio (starts with 205 in Belgium), utilisé en mer. eg: **205**252800
+Code __ATIS__: 9 chiffres: encodé dans la radio dans les eaux interieures, **starts w/ 9**, then 205 for BE, 16=P, num du call sign. eg: **9205**192528
+
+Regles: VHF utilisé pour la securité. priorité:
+1. detresse: 16
+2. urgence: 16
+3. securite: 16
+4. routine: 6 (inter), 8, 10, 23, 22, 77 (intra), 72, 87, ...
+
+min age pour cert. VHF: 15 ans
+
+radio does 0.5-to-25 Watts (usually 1-to-25). can switch to low power (1W). portable: 0.5-to-6W
+interdiction d'utiliser une radio maritime a terre
+
+radio qui flotte = plus utile
+reduit puissance a 1W: communication bateau-bateau (intership), communication bateau-autorite portuaire, communication de bord (intraship)
+	tout ce qui est fluvial
+	
+dual watch: ecoute 16 while using other channel
+	interdit en navigation interieure
+
+semi-duplex: one end (station, solas) can both receive and send, the other is simplex
+
+batteries emit hydrogen: flammable, doit etre dans un local aéré
+dans un bac etanche car acide peut fuire
+
+canaux mer:
+	6: inter ship (intl)
+	8: inter ship (BE)
+	13: securite (navigation eg dans le channel)
+	16: detresse, urgence, securite (aussi bien bulletin meteo que navigation)
+	15, 17: intra-ship (1W)
+	23: canal maritime (some marinas)
+	27/85: radio oostende
+	67: SAR (aussi pour catastrophe ecologique)
+	70: DSC (automatisé)
+	73: anti-pollution
+	75/76: 1W (because next to 16)
+	77: social
+	82: soutage
+autres pays:
+	31: marina aux pays-bas
+	37L: marina aux UK
+	96H: marina
+canaux fluviaux:
+	**10**: intership (fluv). canal de veille
+	15, 17: intra-ship
+	**20, 22**: ponts, ecluses
+	23: marina
+	**24**: radio oostende en relai
+	70: DSC: interdit
+	**72**: social (77 accepted too)
+	82: soutage
+	87H, 88H: AIS
+rainwat (arrangement regional sur les voies interieures): arrangement europeen pour uniformiser tout ca
+
+com: strict minimum, phrases courtes, lentement, 72/77 only for personal com, limiter la puissance, pas diffuser de musique
+accuse de reception: uniquement par station cotiere / solas (peut repondre si pas de reponse apres 4-5min)
+detresse: mayday: menace imminente pour mon bateau ou equipage
+	mayday mayday mayday, ici [name], station ID, position date heure, nature de l'urgence et aide demandee et info necessaire, nb de passagers, autres renseignements utile, over
+	
+urgence: panpan
+securite: securité
+Delta_Echo_[name] = this is [name]
+over = a vous
+over and out = bye
+Charlie_Quebec = to all boats
+
+emploi des langues: langue regionale: NL, 2nd: EN, 3rd: FR
+
+alphabet international: a connaitre par coeur pour l'examen
+	Alpha
+	Bravo
+	Charlie
+	Delta
+	Echo
+	Foxtrot
+	Golf
+	Hotel
+	India
+	Juliett
+	Kilo
+	Lima
+	Mike
+	November
+	Oscar
+	Papa
+	Quebec
+	Romeo
+	Sierra
+	Tango
+	Uniform
+	Victor
+	Whiskey
+	Xray
+	Yankee
+	Zulu
+	0: Nadazero
+	1: Unaone
+	2: Bissotwo
+	3: Terrathree
+	4: Cartefour
+	5: Pentafive
+	6: Soxisix
+	7: Setteseven
+	8: Oktoeight
+	9: 
+
+Securite: eg croisement d'objets dangereux, bouees defectueuse, ..., pas besoin d'accuse de reception
+
+astreints: obliges de rester en veille sur 16
+
+code d'identification de l'autorite comptable (CIAC)
+	code pour relai eau-terre (deliveré par l'IAC, prepayé)
+monnaie utilisee: SDR: special drawing right
+	facturation min: 1-3 minutes
+	
+antenne placée a au moins 4m de toutes masses metalliques importantes
+
+ATIS: parse (9: ATIS, 205: BE, eg16=P, code)
+	transmis par radio toutes les 5min (et quand finis de parler)
+
+SQUelch bouton: reduis interference (set to minimum acceptable)
+
+abbreviations: SOLAS, ATIS (automatic terminal information service)
+
