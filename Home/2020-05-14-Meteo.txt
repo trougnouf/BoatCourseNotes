@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-14T20:12:58+02:00
+
+====== 2020-05-14-Meteo ======
+Created Thursday 14 May 2020
+
+psychometre: mesure l'humidite relative: temperature sec vs humide
+girouette: mesure du vent (meteo mesure moyenne 10min a +10m)
+
+echelle de beaufort: vent: to know
+echelle de douglas: vagues: pas fort utilisé
+
+air direction (eg air polaire continental, ...) to know
+
+dans l'hemisphere nord, face au vent les depressions sont a droite

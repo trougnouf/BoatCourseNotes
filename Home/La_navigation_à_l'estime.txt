@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-23T20:08:11+02:00
+
+====== La navigation à l'estime ======
+Created Thursday 23 April 2020
+
+x j't'ai envoyé un message dans le chat. tu sais que personne lit jamais le chat? (monsieur au telephone qui a oublie de couper son micro)
+
+corriger la route: savoir ou on se trouve apres ligne droite a certeine vitesse
+faire valoir la route: savoir quoi faire d'un endroit connu a un endroit connu
+
+carte: roue de fond
+barreur ne voit que le cap compas
+
+avec vent: calcul d'angles
+avec courant: calcul vectoriel
+can't deal with both
+
+unité de distance: mille (M) = 1852 m
+unité de temps: h min sec
+unité de vitesse: noeud (kn) = 1M/h
+
+gps = speed on ground = vitesse sur carte
+speedometre/loch: vitesse sur l'eau
+
+declinaison magnetique cree deviation w/ nord vrai
+
+
+Nv = D+δ = variation (W)
+
+cap = orientation de l'axe du bateau par rapport a ref meridien (Nord)
+route = orientation de la trajectoire du bateau (Rf = route sur la carte)
+dif matters w/ courant
+{{./Screenshot from 2020-04-23 21-20-27.png}}
+
+{{./Screenshot from 2020-04-23 21-40-37.png}}
+
+s

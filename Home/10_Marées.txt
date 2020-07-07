@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-03-24T20:16:36+01:00
+
+====== 10 Marées ======
+Created Tuesday 24 March 2020
+
+
+difference de hauteur entre haute mer et basse mer = marnage 
+amplitude = difference entre niveau moyen et haute/basse mer
+
+point amphidromique = point ou la hauteur d'eau ne change jamais (mais il peut y avoir du courant)
