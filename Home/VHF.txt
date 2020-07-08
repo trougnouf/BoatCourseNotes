@@ -51,7 +51,7 @@ canaux mer:
 	15, 17: intra-ship (1W)
 	23: canal maritime (some marinas)
 	27/85: radio oostende
-	67: SAR (aussi pour catastrophe ecologique)
+	67: SAR (Search and Rescue. aussi pour catastrophe ecologique)
 	70: DSC (automatisé)
 	73: anti-pollution
 	75/76: 1W (because next to 16)

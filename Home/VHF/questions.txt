@@ -4,6 +4,8 @@ Creation-Date: 2020-07-08T19:31:46+02:00
 
 ====== questions ======
 Created Wednesday 08 July 2020
+11p 6j = 2 ppj
+
 
 * __Une station qui gere le trafic de detresse, annonce la continuation partielle du trafig normal avec l'emission de:__
 	* __mayday prudence__
@@ -28,4 +30,35 @@ Created Wednesday 08 July 2020
 	* regler la supression du bruit de fond
 * Un bateau en peril par un incendie. L'appel de detresse commence par:
 	* may day (3x)
-* L'ordre du contenu d'un appel de detresse est:
+
+
+* __L'ordre du contenu d'un appel de detresse est:__
+	* __signal d'alarme - nom bateau (+ indicatif) - position - genre d'accident, nombre de personnes a bord - info sur l'aide requise__
+* __l'annonce de la fin des communications de detresse se fait avec:__
+	* __silence fini__
+		* p22
+* __A bord se passe un accident, et on a besoin d'avis medical urgent. L'appel se fait:__
+	* __pan pan (3x)__
+		* p27: pas de vie en danger ou danger de crash imminent
+* Sous le terme puissance reduite en VHF on entend:
+	* 0.6-1W
+* __Canal 85 est utilisé pour:__
+	* __trafic public__
+		* p33 ?
+* __sur quel canal VHF peuvent se passer les communications sociales?__
+	* __canal 77__
+		* [[VHF]] , p15-16
+* __le canal pour approvisionnement et fueling est__
+	* __canal 82__
+		* [[VHF]] , p15-16
+* Quels canaux doivent etre bloques dans tous les appareils?
+	* 70 (DSC)
+* Quelle document donne l'autorisation de posseder une radio a bord d'un navire?
+	* la license
+* un bateau avec indicatif d'appel OS5687 est un bateau:
+	* Belge
+* __Quelle puissance doit-on utiliser pour les communications nautiques?__
+	* __0.5-1W__
+		* probably means intra-ship
+* Une installation ATIS doit
+	* generer automatiquement le signal d'identification
