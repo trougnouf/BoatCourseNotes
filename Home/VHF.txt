@@ -5,6 +5,8 @@ Creation-Date: 2020-07-07T09:26:54+02:00
 ====== VHF ======
 Created Tuesday 07 July 2020
 
+[[+questions]]
+
 certificat: personnel; license: bateau
 VHF freq: [156 MHz, 162 MHz]
 DSC: Digital Selective Calling (fr: ASN)

@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-08T19:31:46+02:00
+
+====== questions ======
+Created Wednesday 08 July 2020
+
+* __Une station qui gere le trafic de detresse, annonce la continuation partielle du trafig normal avec l'emission de:__
+	* __mayday prudence__
+		* p22
+* Quand esth-ce qu'on peut émettre un appel de détresse?
+	* quand le bateau et/ou équipage se trouvent dans un danger imminent
+* __Quand est ce qu'on donne un accusé de réception à un appel de détresse?__
+	* __apres autorisation recue du commandant ou skipper__
+		* (p21)
+* Quelle est l'unité de monnaie dans le traffic international maritime?
+	* SDR
+* __Dans la bande VHF le canal 70 est reservé pour:__
+	* __utilisation DSC__
+		* p44 ou 15-16
+* __Le reglage du volume sur une VHF sert a:__
+	* __regler le volume du signal d'entree__
+* La distance de couverture de la VHF depend principalement de:
+	* la hauteur d'antenne
+* Communication radio avec des stations cotieres etrangeres, on doit:
+	* mentionner le code accounting (AAIC)
+* Le squelch d'une VHF sert a:
+	* regler la supression du bruit de fond
+* Un bateau en peril par un incendie. L'appel de detresse commence par:
+	* may day (3x)
+* L'ordre du contenu d'un appel de detresse est:
