@@ -62,3 +62,53 @@ Created Wednesday 08 July 2020
 		* probably means intra-ship
 * Une installation ATIS doit
 	* generer automatiquement le signal d'identification
+
+* La duree d'une emission d'essai est de maximum
+	* 10 sec
+* __Le trafic radio maritime international est regle par__
+	* __le reglement radio (reglement des radiocommunications, RR)__
+		* p6
+* La convention internationale de sauvetage de vie en mer est nommee
+	* le SOLAS
+* De quelle facon une station radio de bord ou de terre qui mene les communications de detresse doit elle arreter les communications genant le trafic de detresse?
+	* silence mayday
+* L'expression PRUDENCE dans le traffic de detresse veut dire
+	* reprendre partiellement le trafic radio sur le canal de detresse
+* Par puissance non reduite en communication VHF on comprend une puissance de
+	* 6-25W
+* __Le temps d'emission des listes de trafic d'Ostende radio est__
+	* __H+20'__
+* Quelle est la reponse correcte
+	* Il est interdit d'intervenir dans les communications radio sauf en cas de detresse
+* Le document de permission pour avoir une installation radio a bord qui s'appelle
+	* la license d'exploitation
+* Lors de l'achat d'une VHF (mariphone) on doit s'assurer que l'appareil soit certifie par
+	* IBPT
+* Le certificat restreint pour des stations radio de bord est donne par
+	* IBPT
+
+* La responsabilite de l'utilisation de l'installation radio est donnee a:
+	* le commandant, ou skipper du bateau en question
+* le but d'une installation radio a bord est
+	* d'assurer la securite en mer des navigants et bateaux
+* Le secret de communication est
+	* de ne pas utiliser le contenu des communications d'autres bateaux
+* Les communications radio entre bateaux sur les eaux interieures se font sur les canaux
+	* 10-13
+* les communications radio a bord se font sur les canaux
+	* 15-17
+* utilisation de l'alphabet international
+	* The quick brown fox jumps over the lazy dog
+		* __TODO__
+	* 20 ships communicate on 7 and 359 channels
+		* __TODO__
+* l'ordre de priorité dans le trafic radio maritime est:
+	* detresse urgence securite
+* __pour l'emission d'un message tres urgent concernant la securite d'un bateau ou un de ses navigants on doit utiliser__
+	* __may day__
+* __sur la VHF on entend l'appel suivant: "may day relay (3x) this is Pontos ONPO (3x); cela veut dire que le navire Pontos:__
+	* __emet un appel de detresse pour une autre station mobile__
+* la possession d'une VHF a bord est surtout pour
+	* assurer la securite du bateau et ses navigants
+* Dual watch est
+	* pas admis en navigation interieure mais admis en navigation maritime

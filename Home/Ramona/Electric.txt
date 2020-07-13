@@ -1,0 +1,134 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-11T21:36:21+02:00
+
+====== Electric ======
+Created Saturday 11 July 2020
+
+2* solar panels
+12v
+110v
+
+charge batteries w/ 110v if < 50%
+12v: fridge, lights, stove
+120v: computer
+?: clim, stove, water boiler
+
+charge batteries with solar, unless very low then std
+https://forum.solar-electric.com/discussion/337862/is-there-a-solar-controller-to-switch-to-ac-power-if-dc-goes-to-low
+https://community.victronenergy.com/questions/55536/switch-from-solar-to-ac-charging-when-batteries-ar.html
+https://www.reddit.com/r/boatbuilding/comments/hpgxqc/charging_batteries_with_solar_panels_and/
+**smart ac charger stops at given voltage**
+
+combine AC and batteries/inverter
+
+* charge batteries with panels (and land when batteries are low)
+	a. use an inverter from batteries to 220V at all times (simplest? wasteful)
+	b. use an inverter from batteries to 220V, switch between BAT and land depending on battery level
+* charge batteries with panels (for 12V subsystem), use an inverter on solar panels and supplement land directly (can solar panel feed both? can land be supplemented w/solar and have solar take priority?) → 220V does not use batteries
+
+https://en.wikipedia.org/wiki/Intelligent_hybrid_inverter
+
+panels: 150x196, 235x160
+**SPM043602400** 360W-24V  Mono  1956 x 992 x 40mm series 4a
+should fit both
+
+
+load: 1kW PC, 1kW AC, 1kW charge, 0.5kW growlights, 0.5kW misc
+
+basket:
+	batteries: 
+	solar panel:
+		**SPM043602400 ***2 (max: 24V, 360W, 2* [[https://hoacmarine.nl/products/victron-bluesolar-monokristallijne-zonnepaneel?variant=31573923102797|305 EUR]])
+	solar charge controller:
+		BlueSolar Charge Controller MPPT 150/60 (max: 860W, 60A, 145V)
+		
+	land charge controller:
+
+	inverter:
+		Phoenix Inverter 12/3000 ([[https://www.acculaders.nl/victron-phoenix-omvormer-compact-12-3000.html|1234.95 EUR]])
+	
+	
+	
+	inverter+land charge controller:
+		MultiPlus 12/3000/120 ([[https://hoacmarine.nl/products/victron-multiplus?variant=32119633477709|1601 EUR]] - [[https://hoacmarine.nl/products/victron-multiplus?variant=32119633510477|1729 EUR]])
+			not sure whether 12/3000/120-16 or 12/3000/120-50 (transfer switch amps)
+			can I set max voltage for charge?
+
+	Isolation transformer
+
+How to combine solar and grid, 
+
+
+Hello,
+I recently purchased a houseboat in Utrecht, https://www.doevemakelaar.nl/en/schip/935/beurtvaarder-15-65 , and I would like to have it equipped with as much solar energy generation as it can fit. It has two small ones currently but I believe there is room for more.
+I would also like to have an electrical system where solar energy can feed batteries (to be upgraded), which then feed the 12V system (lights and fridge) and the 220V appliance.
+The boat will be connected to land almost all the time. It doesn't matter if 220V is available when I'm not onshore as long as I have the 12V. I will draw about 600W from 220V from my computer at all times, and the fridge and light use a small amount of 12V energy.
+I would like to have the work done before I move the boat to Belgium at the end of August. Are you able to come where the boat is or I need to move the boat to you? It is difficult for me to move the boat because I don't yet have a license, but I can hire someone if necessary.
+Thank you for your time.
+Best,
+Benoit
+
+===== combine solar and grid without sending excess energy back to grid =====
+need to keep some 12v charged (motor always, rest a bit?)
+220V w/inverter: use when batteries are up (at least 50percent?)
+hybrid
+
+===== Solar+grid w/o inverter from batteries =====
+
+need:
+2 large solar panels
+12v battery for motor
+12v for some appliances (lights, fridge)
+	either separate batteries or DC-DC conversion from the storage battery bank used by AC system
+3 to 5 kW AC
+	can use the grid. should not go back to the grid
+
+charging from generator, solar, grid
+
+
+
+===== 24V main bank, 12V motor, 220V AC/inverter =====
+* ~~24V-to-12V DC charger:~~
+	* ~~Orion-Tr Smart DC-DC charger (isolated/non-isolated)  24/12~~
+* Solar controller
+	* __MPPT 150/35__ (48V, 1000W@24V, 35A: 300EUR?)
+* inverter / charger / solar controller:
+	* MultiPlus II: 48/5000/70-50 (about 2000 eur)
+	* ~~EasySolar3 kVA & 5 kVAwith Color Control panel~~
+	* ~~EasySolar-II 48/3000/35-32MPPT 250/70 GX~~
+* DC48-to-DC12
+	* Orion-Tr48/12-9 (110W) or Orion-Tr24/48-6 (280W) or Orion-Tr48/12-20(240W) or Orion-Tr48/12-30(360W) : 250 EUR @ 360W (depending on fridge load)
+* Solar panels
+	* **SPM043602400 ***2 (max: 24V, 360W, 2* [[https://hoacmarine.nl/products/victron-bluesolar-monokristallijne-zonnepaneel?variant=31573923102797|305 EUR]])
+* Batteries
+
+options at 12V:
+options at 24V:
+	EasySolar 3000VA
+options at 48V:
+	EasySolar 5000VA
+	EasySolar II 3000VA
+too expensive (3000EUR), see MultiPlus below
+
+12V battery to generator, engine stuff, DC-DC 48-12
+48V battery bank to 48-12 DC-DC, (MPPT_solar_charger, inverter+land_charger):easysolar
+solar_panels to MPPT_solar_charger
+inverter to 220V appliances
+48-12 DC-DC to 12V appliances
+
+maybe use inverter with passthrough AC when batteries are low,
+then no need to recharge the batteries with AC
+
+https://www.victronenergy.com/blog/2016/09/05/configuring-solar-systems-with-quattros-and-multis/
+Q1: self consumption
+Q2: charge the batteries: PV only
+Q3: feed in: not wanted
+Q4: 2?
+ Hub-4 Assistant 
+
+MultiPlus, battery, MPPT charge controller, PVDC
+
+__MultiPlus__: 24/5000/120 or 48/5000:70
+MultiPlus II: 48/5000/70-50 (about 2000 eur)
+__MPPT 150/35__ (48V, 1000W@24V, 35A: 300EUR?)

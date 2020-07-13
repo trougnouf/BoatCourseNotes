@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-11T17:58:23+02:00
+
+====== Maps ======
+Created Saturday 11 July 2020
+
+Gelderse Ijssel 1:25000
+Vaarkaart Nederland 1:500000
+Groningen & Drenthe 1:50000
+Vechtplassen 1:50000
+Groningen / Noord Friesland 1:50000 / 1:125000
+Vecht-en Plassengebied 1:25000
+Vinkeveense Plassen 1:10000
+Varkaart Nederland 1:450000
+Hollandse Plassen 1:50000
+Randmeren / Flevoland 1:50000
+Alkmaar / Den Helder 1:50000
+Grote Rivieren 1:50000
+Amsterdam Alkmaar 1:50000
+Friese Meren 1:50000
+Vechtplassen 1:50000
+Grote Rivieren / Oost 1:50000
+Noordwest overijssel 1:50000
