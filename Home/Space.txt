@@ -1,0 +1,64 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-14T14:32:34+02:00
+
+====== Space ======
+Created Tuesday 14 July 2020
+
+==== Water quality ====
+
+Wallonie:
+http://etat.environnement.wallonie.be/contents/indicatorsheets/EAU%2010.html
+
+excellent since 2010:
+
+Le Grand Large à Nimy (near Mons)
+
+objectifs environnementaux des masses d'eau: http://eau.wallonie.be/spip.php?article110
+canal historique du centre: bon potentiel en 2015
+ancien canal charleroi-bruxelles: bon potentiel en 2015
+canal charleroi-bruxelles: bon potentiel en 2021
+
+==== Maps ====
+
+cours d'eaux naviguables: http://voies-hydrauliques.wallonie.be/opencms/export/sites/met.dg2/doc/fr/promotion/doc/CARTE_TERMINAUX_INTERMODAUX_WALLONIE_2020_04_27_web_SPW-DTIM.pdf
+
+cours d'eaux:
+
+{{./000000002661_20120206160027_o.jpg}}
+
+
+
+==== Distances ====
+Namur:
+	Schuman:
+		IC: 50-58 min
+		moto: 40-55 min
+	Rotterdam: 
+		IC: 3h-3h29
+		moto: 2h-2h40
+Liege:
+	Nord:
+		IC: 48-53 min
+		moto: 50-70 min
+	Rotterdam:
+		IC: 2h48-3h19
+		moto: 2h10-2h50
+
+
+
+==== GR, Ravel ====
+
+==== Crime ====
+
+==== misc ====
+info: http://www.habitat-fluvial.net/news/2.html
+
+d'apres mounstique: Namur =  73eme, Mons 249eme, Liege 249eme
+
+
+envoi photo
+info@bryc.be
+alain52@hotmail.com
+
+whatevs, do both?

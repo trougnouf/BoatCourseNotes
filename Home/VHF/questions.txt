@@ -98,8 +98,12 @@ Created Wednesday 08 July 2020
 * les communications radio a bord se font sur les canaux
 	* 15-17
 * utilisation de l'alphabet international
+	* alpha bravo charlie delta echo foxtrot golf hotel __india__ juliett __kilo__ __lima__ __mike__ __november__ oscar papa quebec romeo __sierra__ tango __uniform__ victor __whiskey__ __x-ray__ yankee __zulu__
+	* alpha bravo charlie delta echo foxtrot golf hotel india juliett kilo lima mike__ november __oscar __papa quebec __romeo sierra__ tango __uniform victor__ whiskey x-ray __yankee zulu 
 	* The quick brown fox jumps over the lazy dog
-		* __TODO__
+	* nadazero unaone bissotwo terrathree cartefour pantafive soxisix setteseven oktoeight novenine decimal stop
+	* __TODO__
+		* p18
 	* 20 ships communicate on 7 and 359 channels
 		* __TODO__
 * l'ordre de priorité dans le trafic radio maritime est:
@@ -112,3 +116,110 @@ Created Wednesday 08 July 2020
 	* assurer la securite du bateau et ses navigants
 * Dual watch est
 	* pas admis en navigation interieure mais admis en navigation maritime
+* __L'utilisation d'une station a bord est admise si__
+	* __il est necessaire qu'une personne a bord ait le certificat approprié__
+* les communications sur le navire meme se font sur
+	* canaux 75 et 17
+* une station mobile emet la pharse suivante: "mayday relay (3x) this is Papa Oscar November Tango Oscar Sierra", cela veut dire que:
+	* le navire PONTOS emet un appel de detresse pour un autre bateau
+* Apres reception du signal de detresse le receveur doit
+	* arreter ses emissions et ecouter les frequences appropriees
+* le canal VHF pour la lutte contre les desastres du milieu maritime est:
+	* 73
+* la retransmission d'un appel de detresse par une autre station commence toujours avec:
+	* mayday relay
+* __quel document traite de la procedure d'exploitation radiotelephonique sur les voies de navigation interieures?__
+	* __L'arrangement relatif au service radiotelephonique sur les voies de navigation interieure__
+* a t-on besoin d'une autorisation pour utiliser une station radio de bateau?
+	* oui
+* l'indicatif d'appel est attribué
+	* au bateau
+* qu'entend on par mode d'exploitation simplex?
+	* une meme frequence est utilisee a l'emission et a la reception
+* sur quelles voies les communications d'ordre prive sont elles permises?
+	* 72 et 77
+
+* Quelle est la puissance d'emission maximale autorisee dans le reseau bateau-bateau?
+	* 1W
+* les radiocommunications d'informations nautiques sont reservees a des liaisons entre:
+	* stations de bateaux et stations terrestres des autorites chargees de l'exploitation des voies naviguables
+* __pour signaler une voie d'eau a bord, on envoie un appel:__
+	* __de detresse__
+* le DSC est
+	* interdit sur les voies de navigation interieures
+* lequel de ces numeros correspond a un code ATIS belge?
+	* 9 205 13 7471
+* le squelch permet:
+	* de regler la sensibilite de reception de la VHF
+* l'antenne VHF doit etre placee le plus pres possible de tout object metallique
+	* Faux
+* un bateau belge naviguant en Allemagne qui appelle un bateau allemand doit:
+	* faire usage de l'allemand
+* epelez avec l'alphabet international le mot ecluse:
+	* echo charlie lima uniform sierra echo
+* quel est le signal caracterisant le message de detresse en radiophonie
+	* mayday
+* quand on entend sur la voie 10 un message commencant par "mayday relay mayday relay mayday relay ici la boudeuse ..." cela signifie que
+	* le bateau la boudeuse emet un appel de detresse au profit d'un autre bateau
+
+* la reprise partielle des communications radio dans la mesure ou celles ci ne perturbent pas le traffic de detresse est annoncee par la station dirigeant le traffic de detresse sous la forme
+	* mayday prudence
+* le bateau angelique montant a Namur a besoin d'assistance apres un echouage. quel est le message correct
+	* pan pan pan pan pan pan
+	* a tous les bateaux (3x)
+	* ici - Angelique (3x)
+	* montant au pont d'yvoir, suis echoue sur rive droite
+	* demande assistance a tous les bateaux pour remorquage
+	* a vous
+* pour signaler une epave a la derive on commencera le message par
+	* securite securite securite
+* le pousseur phil, sortant des darses du port d'anvers, a demande si la voie etait libre. l'automoteur dan lui repond. quel est le message correct?
+	* pousseur phil (3x)
+	* ici - automoteur dan (3x)
+	* montant a 500 metres de l'entree des darses
+	* pas d'avalants en vue, vous pouvez sortir avant mon arrivee
+	* a vous
+
+===== Questions supplementaires de revision =====
+* l'obligation d'emettre en low sur un canal impose une puissance
+	* entre 0.5 et 1W
+* 70
+	* DSC
+* 73
+	* antipollution
+* 82
+	* approvisionnement
+* ecluse
+	* 20, 22
+* social
+	* 72 77
+* quel canal utiliser afin de prevenir l'eclusier lors d'une decouverte d'un objet flottant (ou d'une bouee flottante)
+	* 20
+* le signal ATIS est
+	* emis au relachement du bouton PTT
+* ATIS OS = belge
+	* ON a OT
+* ATIS obligatoire interieures
+* ATIS emis en communication, relache
+* dimmer: luminosite
+* puissance portaphone
+	* 1 a 5 W
+* dual watch interdit en fluvial
+* WATA
+	* simplex
+* certificat CRR: min 15 ans
+* nemero MMSI rattaché au bateau
+* quel documents faut il avoir a bord: license, certificat, livre de bord, assurance, ...
+* taxation CIAC temps minimum: 3 minutes (depends)
+* categorie des appareils utilises en plaisance: D
+* reglement des radiocommunications en eaux interieures est gere par qui
+	* arrangement sur les voies de navigation interieure
+* quand devons nous renouveler la license du bateau: si on souhaite modifier les donnees qui s'y trouvent
+* license SRC: a vie
+* qui donne la license: IBPT
+* qui peut envoyer un appel de detresse: la personne designee par le skipper
+* DSC: digital selective calling
+* batterie dans un endroit etanche pour proteger des liquides qui debordent / coulent
+* unite de puissance: Ah
+* endroit ventilé: risque d'explosion si degagement de vapeurs
+* AIS codé avec un numero MMSI
