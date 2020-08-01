@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-03-08T10:59:35+01:00
 
 ====== Examen EI du 2012-03-17 ======
@@ -13,10 +13,26 @@ Created Sunday 08 March 2020
 
 
 11. B (1.2b p33/78, signs: TODO revise before exam)
-([[../../../../Scans/Règlement/1.2. b. Appendice 3 Signalisation visuelle INCOMPLET_ocr.pdf|1.2b]] signalisation en cours de route, lights: TODO revise before exam)
+	([[../../../../Scans/Règlement/1.2. b. Appendice 3 Signalisation visuelle INCOMPLET_ocr.pdf|1.2b]] signalisation en cours de route, lights: TODO revise before exam)
 12. B (convoi poussé large vu de l'arriere. avant montre RG sides, 
 13. C (bateau ou engin flottant au travail, le passage est libre des 2 cotes. bac = ^{g}_{w} ou ballon vert, pecheur: ^{R}_{W} ou cones ^{V}_{^})
-14. coté libre d'un bateau a capacite de manoeuvre restraine (also GG). centre montre boule-diamond-boule ou WRWR, coté entravé à 2 boules ou RR. (incapable de manoeuvrer: 2 boules ou RR ou red hand flag)
+14. A coté libre d'un bateau a capacite de manoeuvre restraine (also GG). centre montre boule-diamond-boule ou WRWR, coté entravé à 2 boules ou RR. (incapable de manoeuvrer: 2 boules ou RR ou red hand flag)
 15. pavillon A: B-W: bateau utilisé pour la plongée (prioritaire: pavillon rouge, entretien: ^{G}_{G }^{G}_{G})
 16. C. W: yby (alphabetical order, [[R1.2b signalisation visuelle]])
-17. C. handicapé (^{R}R_{R})
+
+21 handicapé (^{R}R_{R})
+22: navire a voile
+23 bateau-pilote en service de pilotage
+24 ???
+25 ???
+26 interdit de naviguer a la voile si ≥20m sur le canal de gand a terneuzen  [[../../../../Scans/Règlement/2.6. Règlement de navigation du canal de Gand à Terneuzen_ocr.pdf]]
+33 [[../../../../Scans/Règlement/1.3. Règlement de police de l_Escaut maritime inférieur_ocr.pdf]] / https://fr.wikipedia.org/wiki/Code_international_des_signaux_maritimes : stop now
+34 autorisé en dehors du chenal de mouiller l'ancre
+35 [[../../../../Scans/Règlement/1. 1. Réglement international pour prévenir les abordages en mer_ocr.pdf]]
+ [[R 1.1 Réglement international pour prévenir les abordages en mer]]
+le yacht doit prendre en temps voulu les mesures necessaires pour ne pas gener le passage du navire a propulsion mecanique
+36 meme vent/direction: sous vent (plus loin du vent) est prioritaire: celui qui est au vent
+37 il y a un risque d'abordage si le relevement au compas du navire qui s'approche ne change pas de maniere appreciable
+38 le vent est nord-est, cela signifie que le vent souffle: 
+[[../../../../Scans/Brevet de conduite générale/14 Météorologie marine_ocr.pdf]]
+from-to (?)
